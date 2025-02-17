@@ -6,7 +6,13 @@
 
 ## To-Do 20250724
 
-<img width="921" alt="image" src="https://github.com/user-attachments/assets/7c245630-8ddc-4ecb-b4a6-d80587bbf02a" />
+1) Present Map, food, smiles
+2) Review course topics in a quiz: 
+- Central limit Theorem
+- Derive the 95 Confidence interval for ($\mu$) or $p$
+- Do a hypothesis test for H_0: \mu=3 or H_0: p =0.45
+
+
 
 
 ---
