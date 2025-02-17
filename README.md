@@ -1,6 +1,7 @@
 # 202502-Statistics-II
 
-
+[如何登入microsoft TEAMS](https://hackmd.io/dsB86sWTTYOTZ8h_mssHdw?view)
+microsoft TEAMS CODE: rrgsgfc
 
 ---
 ## Participants
