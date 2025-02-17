@@ -1,7 +1,8 @@
 # 202502-Statistics-II
 
-[如何登入microsoft TEAMS](https://hackmd.io/dsB86sWTTYOTZ8h_mssHdw?view)
-microsoft TEAMS CODE: rrgsgfc
+1. [如何登入microsoft TEAMS with microsoft TEAMS CODE: rrgsgfc](https://hackmd.io/dsB86sWTTYOTZ8h_mssHdw?view)
+2. [Earlier YOUTUBE vedios](https://venteng.github.io/Teaching/README.html)
+
 
 ---
 ## Participants
