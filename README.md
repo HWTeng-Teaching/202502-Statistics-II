@@ -4,6 +4,11 @@
 2. [Earlier YOUTUBE vedios](https://venteng.github.io/Teaching/README.html)
 
 
+## To-Do 20250724
+
+<img width="921" alt="image" src="https://github.com/user-attachments/assets/7c245630-8ddc-4ecb-b4a6-d80587bbf02a" />
+
+
 ---
 ## Participants
 
@@ -49,7 +54,6 @@
 | 黃泓文  | 112705001 | Rory    | 資財16   | Rory-Huang      |
 | 田淮筑  | 112705014 | 112705014 | 資財系  | aa112705014.mg12@nycu.edu.tw |
 | 曾啟豪  | 111450010 | Eason   | 15      | Eason988        |
-
 
 
 
