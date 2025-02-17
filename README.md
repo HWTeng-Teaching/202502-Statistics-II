@@ -7,8 +7,6 @@
 
 [My gitHUB webapge](https://venteng.github.io) 
 
-[Food, Maps, Smile](https://venteng.github.io)
-
 
 ## Map
 
