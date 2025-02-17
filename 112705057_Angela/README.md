@@ -6,5 +6,9 @@
 
 ## Map
 ![image](https://github.com/user-attachments/assets/3904a3ef-f63b-4f84-9eca-f15c8e8b8e7b)
+
 ## Food
+![image](https://github.com/user-attachments/assets/dd6787dd-bc61-41d6-93d5-48b03d03b593)
+
 ## Smile
+
