@@ -7,12 +7,13 @@
 
 
 ## Map
-![image](https://github.com/user-attachments/assets/62c736a2-eefa-40eb-a6a3-570524b34c08)
+![image](https://github.com/user-attachments/assets/38df8d99-cff6-4e9c-b695-6ec065561327)
 
 
 ## Food
-![image](https://github.com/user-attachments/assets/bb44d6c8-ccbb-46b9-809f-19f15dfbdafe)
+![image](https://github.com/user-attachments/assets/70020cbc-2acc-411f-a126-85978bbd800c)
+
 
 
 ## Smiles 
-![image](https://github.com/user-attachments/assets/a431bab8-d59b-436b-a381-d7ad8b7edf6c)
+![image](https://github.com/user-attachments/assets/e5b54812-e9a8-4ab2-8698-1267d0058e1e)
