@@ -1,3 +1,1 @@
-map
-food
-smile
+
