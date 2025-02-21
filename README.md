@@ -69,9 +69,8 @@
 
 # Huei-Wen Tegn
 
-
 *Created by Huei-Wen Teng on 20250217 Last updated on 20250217*
 
-[My gitHUB webapge](https://venteng.github.io) 
-[My MFS](https://venteng.github.io/MFS.html) 
+1. [My gitHUB webapge](https://venteng.github.io) 
+2. [My MFS](https://venteng.github.io/MFS.html) 
 
