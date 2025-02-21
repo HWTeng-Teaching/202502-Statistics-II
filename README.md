@@ -61,13 +61,11 @@
 | 田淮筑  | 112705014 | 112705014 | 資財系  | aa112705014.mg12@nycu.edu.tw |
 | 曾啟豪  | 111450010 | Eason   | 15      | Eason988        |
 
-
-
 ---
 
 *Demo of your xxxxxxx_NAME/README.md in your folder*
 
-# Huei-Wen Tegn
+# Huei-Wen Teng
 
 *Created by Huei-Wen Teng on 20250217 Last updated on 20250217*
 
