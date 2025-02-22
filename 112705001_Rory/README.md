@@ -12,6 +12,6 @@
 ![Image](https://github.com/user-attachments/assets/fa5a16dd-04e2-4404-a17d-e1fbf8a27a43)
 
 ## Smiles 
-![Image](https://github.com/user-attachments/assets/26e88247-7ecf-40e2-b5d9-0f8e5d1b250a)
+![Image](https://github.com/user-attachments/assets/28c6cc32-9fb0-408d-9121-c670001b4b66)
 
 
