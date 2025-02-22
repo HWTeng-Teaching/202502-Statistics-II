@@ -10,6 +10,8 @@
 
 
 ## Food
+![food](https://github.com/user-attachments/assets/8cb05d63-8d63-4a4e-9821-b2a1bbb1ebd7)
 
 
 ## Smiles 
+![smile](https://github.com/user-attachments/assets/90150ffd-f989-4f42-acbe-bd71505d90b7)
