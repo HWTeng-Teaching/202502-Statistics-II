@@ -6,9 +6,12 @@
 
 
 ## Map
-![image]([112705001_Rory/圖片1.png](https://github.com/user-attachments/assets/))
+![Image](https://github.com/user-attachments/assets/6dafce30-4540-4478-8584-4a962953153c)
 
 ## Food
-
+![Image](https://github.com/user-attachments/assets/bf720684-613b-4635-8f6e-4d46b41fdea9)
 
 ## Smiles 
+![Image](https://github.com/user-attachments/assets/26e88247-7ecf-40e2-b5d9-0f8e5d1b250a)
+
+
