@@ -6,7 +6,7 @@
 
 
 ## Map
-![Image](https://github.com/user-attachments/assets/6dafce30-4540-4478-8584-4a962953153c)
+![Image](https://github.com/user-attachments/assets/40afe56b-57c2-4f00-ac50-034d5eb3cf79)
 
 ## Food
 ![Image](https://github.com/user-attachments/assets/bf720684-613b-4635-8f6e-4d46b41fdea9)
