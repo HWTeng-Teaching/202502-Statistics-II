@@ -7,10 +7,11 @@
 
 
 ## Map
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/8e117c1e-c780-4104-89d8-58e39ebbd725" />
-
+![1](https://github.com/user-attachments/assets/1ed9a0be-55be-43d5-a2a2-4a42a5f509b5)
 
 ## Food
-
+![2](https://github.com/user-attachments/assets/313daefe-c8bf-4736-8f6a-0673c5ea06ed)
 
 ## Smiles 
+![3](https://github.com/user-attachments/assets/11f5a54d-428d-4c67-90a1-6212646d185d)
+
