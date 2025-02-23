@@ -7,11 +7,11 @@
 
 
 ## Map
-![image](https://github.com/Yee041008/huhuh/blob/main/Map.pdf)
+![Map](https://github.com/Yee041008/huhuh/blob/main/Map.pdf)
 
 ## Food
-
+![image]()
 
 ## Smiles 
-
+![image]()
 
