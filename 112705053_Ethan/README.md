@@ -7,7 +7,6 @@
 
 
 ## Map
-[Brown Minimalist Casual Fashion Collection Presentation.pdf](https://github.com/user-attachments/files/18929795/Brown.Minimalist.Casual.Fashion.Collection.Presentation.pdf)
 
 
 ## Food
