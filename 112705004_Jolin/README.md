@@ -11,8 +11,8 @@
 ![image](https://github.com/user-attachments/assets/ed4b0f4a-070b-4955-8078-5f767895e8f3)
 
 ## Food
+![image](https://github.com/user-attachments/assets/e6c0230b-8d5c-4446-a254-fa92e8d9eb5b)
 
-![image](https://github.com/user-attachments/assets/32f7fac3-fac3-41f7-a227-27b32ba8eff7)
 
 ## Smiles
 
