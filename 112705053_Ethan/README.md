@@ -10,8 +10,8 @@
 ![Map](https://github.com/Yee041008/huhuh/blob/main/Map.jpg)
 
 ## Food
-![image]()
+![Food](https://github.com/Yee041008/huhuh/blob/main/Food.jpg)
 
 ## Smiles 
-![image]()
+![Smile](https://github.com/Yee041008/huhuh/blob/main/Smile.jpg)
 
