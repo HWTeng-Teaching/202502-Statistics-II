@@ -7,7 +7,7 @@
 
 
 ## Map
-![Map](https://github.com/Yee041008/huhuh/blob/main/Map.pdf)
+![Map](https://github.com/Yee041008/huhuh/blob/main/Map.jpg)
 
 ## Food
 ![image]()
