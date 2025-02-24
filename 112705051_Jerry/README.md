@@ -7,7 +7,7 @@
 
 
 ## Map
-<img width="379" alt="image" src="https://github.com/user-attachments/assets/163418de-501d-4b77-b465-b85de510e778" />
+<img width="779" alt="image" src="https://github.com/user-attachments/assets/163418de-501d-4b77-b465-b85de510e778" />
 
 ## Food
 <img width="365" alt="image" src="https://github.com/user-attachments/assets/86a0206a-05d8-4ae0-a104-12c031510a43" />
