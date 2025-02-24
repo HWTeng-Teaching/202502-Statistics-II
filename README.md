@@ -3,6 +3,9 @@
 1. [如何登入microsoft TEAMS with microsoft TEAMS CODE: rrgsgfc](https://hackmd.io/dsB86sWTTYOTZ8h_mssHdw?view)
 2. [Earlier YOUTUBE vedios](https://venteng.github.io/Teaching/README.html)
 
+3. GitHUB info collection https://forms.gle/KVeBTDYtUxJcoJqu7
+4. IC0224 https://forms.gle/EqEUh6rGN88ZdacLA
+
 
 ## To-Do 20250724
 
