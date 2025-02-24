@@ -1,1 +1,21 @@
+# Haui-Jhu Tian 
+
+
+*Created by Huai Jhu Tian on 20250223 Last updated on 20250223*
+
+[My gitHUB webapge](https://venteng.github.io) 
+
+
+## Map
+
+![images](https://github.com/user-attachments/assets/7f47097b-ae53-406a-aca4-4716f24a854e)
+
+## Food
+
+![images (1)](https://github.com/user-attachments/assets/f8aae283-1f84-4180-84bf-c3fbb8170e47)
+
+
+## Smiles 
+
+![images (2)](https://github.com/user-attachments/assets/d315c942-7b93-43e1-b417-6c496a9298b6)
 
