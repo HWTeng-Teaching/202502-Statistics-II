@@ -4,7 +4,7 @@
 2. [Earlier YOUTUBE vedios](https://venteng.github.io/Teaching/README.html)
 
 3. GitHUB info collection https://forms.gle/KVeBTDYtUxJcoJqu7
-4. IC0224 https://forms.gle/EqEUh6rGN88ZdacLA
+4. IC0224 https://forms.gle/CcLP5Rs5ETvdgVSz7
 
 
 ## To-Do 20250724
