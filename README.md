@@ -7,17 +7,15 @@
 4. IC0224 https://forms.gle/CcLP5Rs5ETvdgVSz7
 
 
-## To-Do 20250724
+## To-Do 20250303
 
 1) Present Map, food, smiles
-2) Review course topics in a quiz: 
-- Central limit Theorem
-- Derive the 95 Confidence interval for ($\mu$) or $p$
-- Do a hypothesis test for H_0: \mu=3 or H_0: p =0.45
+2) Present HW of those assigned students
+3) CH10.3-10.4
 
 
+## T tables
 <img width="520" alt="image" src="https://github.com/user-attachments/assets/ea7b5824-348c-4227-a265-ce3f639300eb" />
-
 
 
 ---
