@@ -1,6 +1,6 @@
 # KC
 
-[My gitHUB webapge](https://github.com/kcdyy/biography-/blob/main/README.md) 
+[My gitHUB webapge](https://kcdyy.github.io/) 
 
 
 ## MAP
