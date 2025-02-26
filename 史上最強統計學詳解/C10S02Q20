@@ -1,0 +1,38 @@
+## Question
+
+<img width="460" alt="image" src="https://github.com/user-attachments/assets/bd3830c8-ffed-4117-b8aa-2bc8c605ea2e" />
+
+## Solution
+
+$\bar{x} = 69.7 \quad  \quad s = 16 \quad  \quad n = 25$  
+
+According to the question, we know that $X \sim N(\mu, \sigma^2)$.  
+
+$X_1, X_2, X_3,\dots, X_{25} \sim N(\mu, \sigma^2)$  
+
+$\bar{X} = \frac{\sum_{i=1}^{25} X_i}{25}$  
+
+$\bar{X} \sim N\left(\mu, \frac{\sigma^2}{25} \right)$  
+
+Because the question wants to konw if the average CBF for stroke patients is different from that of healthy people, we assume that $\mu_0 = 74$ and the hypothesis:  
+  
+1. $H_0: \mu = 74 \quad \quad H_a: \mu \neq 74$
+  
+2. $\alpha$ is given by the question. $\quad \alpha=0.05$
+  
+3. The test statistic and its sampling distribution is  
+
+$$
+t_{\text{STAT}} = \frac{\bar{x} - \mu_0}{s / \sqrt{n}} \sim t_{(n - 1)} \quad \Rightarrow \quad t_{\text{STAT}} = \frac{\bar{x} - 74}{s / \sqrt{n}} \sim t_{(25 - 1)} \quad \Rightarrow \quad t_{\text{STAT}} = \frac{\bar{x} - 74}{s / \sqrt{n}} \sim t_{24}
+$$
+     
+4. The realized statistic  
+
+$$
+t^* = \frac{\bar{x} - \mu_0}{s / \sqrt{n}} = \frac{69.7 - 74}{16 / \sqrt{25}} = -1.34375
+$$
+     
+5. The critical points are $\pm t_{\alpha / 2} \Rightarrow \pm t_{0.05 / 2} = \pm t_{0.025} = \pm 2.064$  
+   Therefore, the rejection region is $t < -2.064$ or $t > 2.064$.
+     
+6. Because $t = -1.34375$ does not fall into the rejection region, $H_0$ is not rejected, which means there is no sufficient evidence to show that the average CBF for stroke patients is different from that of healthy people.
