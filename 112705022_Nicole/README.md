@@ -3,7 +3,7 @@
 
 *Created by Nicole Chen on 20250217 Last update on 20250217*
 
-[My gitHUB webapge](https://github.com/pycnicole)
+[My gitHUB webapge](https://pycnicole.github.io/)
 
 ## Map
 ![image](https://github.com/user-attachments/assets/ae347e08-9214-4e69-9bee-e9f20ba1a61a)
