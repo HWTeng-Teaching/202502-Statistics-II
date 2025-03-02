@@ -2,7 +2,7 @@
 
 *Created by Candice on 20250221 Last updated on 20250223*
 
-[My gitHUB webapge](https://github.com/Candice251)
+[My gitHUB webapge](Candice251.github.io)
 
 ## Map
 ![image](https://github.com/user-attachments/assets/d2015379-4df8-47c7-93b5-b1d569f658c8)
