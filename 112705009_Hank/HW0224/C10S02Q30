@@ -1,0 +1,13 @@
+### Q30.
+
+## a.
+$H_0$ : $\mu = 25$
+$H_a$ : $\mu < 25$
+$\alpha = 0.05$
+
+$t = \frac{\bar{x} - \mu}{s/ \sqrt{n}} = \frac{20.3 - 25}{5 / \sqrt{21}} \approx -4.308$
+
+$\because -t_{20;0.05} = -1.725 > -4.308$
+$\therefore$ reject $H_0$
+
+Sufficient evidence that the true pretreatment mean is less than 25.
