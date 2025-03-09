@@ -1,0 +1,46 @@
+# Question 11
+<img src="https://github.com/user-attachments/assets/a6e94edc-5841-438d-88b4-33ae45649e7d" width = 400px>
+
+## Solution
+$\bar{X}_1= \frac{1+3+2+1+2+1+3+2}{8}=1.875$
+${S_1}^2 = 0.696$
+$\bar{X}_2= \frac{4+2+3+3+1+2+3+3}{8}=2.625$
+${S_2}^2 = 0.839$
+
+$H_0: \mu_1-\mu_2 = 0, H_1: \mu_1-\mu_2 \neq 0$
+
+set $\alpha = 0.05$
+
+Test if variance are the same:
+
+$if \frac{larger S^2}{smaller S^2} \leq 3$, the equal variance assumption is reasonable
+
+$\frac{0.839}{0.696} = 1.205 \leq 3$, so that ${\sigma_A}^2 = {\sigma_B}^2$
+
+**Pool Estimator:**
+$S^2 = \frac{(n_A-1){S_A}^2+(n_B-1){S_B}^2}{n_1+n_2-2} =\frac{(8-1)0.839+(8-1)0.696}{8+8-2}=0.7675$
+
+Test statistic and its sampling distribution:
+
+$$
+t_{\text{STAT}} = \frac{(\bar{X}_A - \bar{X}_B) -D_0}{\sqrt{S^2 * (\frac{1}{n_A} + \frac{1}{n_B}})} \sim t\_{n_A+n_B-2}
+$$
+
+Realized test statistic:
+
+$$
+t^* = \frac{(1.875-2.625)-0}{\sqrt{0.7675(\frac{1}{8}+\frac{1}{8})}} = -1.715
+$$
+
+Find the reject region:
+
+$$
+t_{n_A+n_B-2,\alpha/2} = t_{14,0.025}=\pm 2.145
+$$
+
+reject region:
+if $|t| > 2.145$, reject $H_0$
+
+$|t^*| = 1.715 < 2.145$, we won't reject $H_0$
+
+There is no sufficient evidence that the data present sufficient evidence to indicate a difference in mean reactiontimes for the two stimuli.
