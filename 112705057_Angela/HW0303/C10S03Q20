@@ -1,0 +1,101 @@
+## a.
+
+### Above Town:
+- $\( n = 5 \)$
+- $\( \bar{X_1} = 5 \)$
+- $\( S_1^2 = 0.025 \)$
+
+### Below Town:
+- $\( n = 5 \)$
+- $\( \bar{X_2} = 4.86 \)$
+- $\( S_2^2 = 0.013 \)$
+
+---
+
+## 1. Hypotheses
+$\[
+H_0: \mu_1 = \mu_2
+\]$  
+
+$\[
+H_a: \mu_1 > \mu_2
+\]$
+
+---
+
+## 2. Significance Level
+$\[
+\alpha = 0.05
+\]$
+
+---
+
+## 3. Define Test Statistic
+$\[
+t_{\text{STAT}} = \frac{(\bar{X_1} - \bar{X_2}) - D_0}{\sqrt{ S_p^2 \left(\frac{1}{n_1} + \frac{1}{n_2} \right)}}
+\]$
+
+---
+
+## 4. Pooled Variance Calculation
+$\[
+S_p^2 = \frac{(n_1 - 1)S_1^2 + (n_2 - 1)S_2^2}{n_1 + n_2 - 2}
+\]$
+
+$\[
+= \frac{(5-1) \cdot 0.025 + (5-1) \cdot 0.013}{5 + 5 - 2}
+\]$
+
+$\[
+= 0.019
+\]$
+
+## 4. Realized Test Statistics
+
+$\[
+t^* = \frac{5 - 4.86 - 0}{\sqrt{0.019 \left( \frac{1}{5} + \frac{1}{5} \right)}}
+\]$
+
+$\[
+t^* = 1.61
+\]$
+
+---
+
+## 5. Rejection Region
+
+Using the **t-table**, the critical value for:
+
+$\[
+t_{n_1+n_2-2, \alpha} = t_{8, 0.05} = 1.860
+\]$
+
+$\[
+\{ t : t > 1.860 \}
+\]$
+
+---
+
+## 6. Conclusion
+
+Since $\( 1.860 > t^* = 1.61 \)$, there is **insufficient evidence** to show that the mean oxygen content below the town is less than the mean oxygen above.
+
+---
+
+## b. Confidence Interval for $\( \mu_1 - \mu_2 \) (95% LCB)$
+
+$\[
+\bar{X_1} - \bar{X_2} - t_{n_1+n_2-2, \alpha/2} \cdot \sqrt{S_p^2 \left( \frac{1}{n_1} + \frac{1}{n_2} \right)}
+\]$
+
+$\[
+= 5 - 4.86 - 2.306 \times \sqrt{0.019 \left( \frac{1}{5} + \frac{1}{5} \right)}
+\]$
+
+$\[
+= (-0.061, 0.341)
+\]$
+
+### Conclusion:
+Since the **95% confidence interval** is **(-0.061, 3.241)**, it includes **zero**.  
+Thus, we **fail to reject $\( H_0 \)$** (Non-reject $\( H_0 \))$.
