@@ -1,0 +1,42 @@
+# Question 12
+<img src="https://github.com/user-attachments/assets/9e861fb9-373b-417f-b6e4-29621e989927" width = 400px>
+
+## Solution
+**Define:**
+A: Stimulus 1
+B: Stimulus 2
+
+$D_i = A_i - B_i$
+
+$\bar{D} = \frac{(-1)+(-1)+(-2)+1+(-1)+(-1)+0+(-1)}{8} = -0.75$
+
+$S_D=0.886$
+
+$H_0: \mu_A-\mu_B = 0, H_1: \mu_A-\mu_B \neq 0$
+
+set $\alpha = 0.05$
+
+Test statistic and its sampling distribution:
+
+$$
+t_{STAT} = \frac{\bar{d} - 0}{S_d/\sqrt{n}} \sim t_{n-1}
+$$
+
+Realized test statistic:
+
+$$
+t^* = \frac{-0.75 - 0}{0.886/\sqrt{8}} = -2.394
+$$
+
+Find the reject region:
+
+$$
+t_{n-1,\alpha/2} = t_{7,0.025} = \pm 2.365
+$$
+
+reject region:
+if $|t| > 2.365$, reject $H_0$
+
+$|t^*|=2.394 > 2.365$, we would reject $H_0$
+
+There is sufficient evidence that the data present sufficient evidence to indicate a differece in mean reactio times for the two stimuli.
