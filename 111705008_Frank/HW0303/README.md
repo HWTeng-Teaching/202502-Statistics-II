@@ -22,4 +22,4 @@ since -2.412 < -2.145
 we reject $H_0$, the means are different
 ## C10S03Q20
 ![image](https://github.com/user-attachments/assets/b697ed2a-fb28-4712-9d0a-dbdc5f237eed)
-![image](Q2.png)
+![image](111705008_Frank/HW0303/Q2.PNG)
