@@ -11,4 +11,5 @@ Therefore, it is more likely for the underlying variances to be different.
 $H_0: \mu_1 - \mu_2 = 0 \quad \quad H_1: \mu_1 - \mu_2 \neq 0$\
 $\alpha=0.05$\
 Test satistic:\
-$T=(X_1-X_2-D_0)\over sqrt{\frac{S_1^2}{n_1}+\frac{S_2^2}{n_2}}$\
+$$T=(X_1-X_2-D_0)\over sqrt{\frac{S_1^2}{n_1}+\frac{S_2^2}{n_2}}$$
+
