@@ -23,3 +23,11 @@ we reject $H_0$, the means are different
 ## C10S03Q20
 ![image](https://github.com/user-attachments/assets/b697ed2a-fb28-4712-9d0a-dbdc5f237eed)
 ![image](Q2.PNG)
+## C10S04Q20
+![image](https://github.com/user-attachments/assets/041f2bc6-6afb-4502-9944-b9888a161d5d)
+## C10S04Q22
+![image](https://github.com/user-attachments/assets/a2b3017b-64c4-42bf-a59e-15529904bf43)
+## C10S07Q11
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/3714e061-67b1-4cca-ac56-c681e44c36fd" /> 
+## C10S07Q12
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/bba5be4e-c691-40e7-996e-1efcc86b3ab0" /> 
