@@ -20,3 +20,5 @@ $T=(X_1-X_2-D_0)\over sqrt{\frac{S_1^2}{n_1}+\frac{S_2^2}{n_2}}\approx -2.412$\
 $-t_{14, 0.05} = -2.145$  
 since -2.412 < -2.145  
 we reject $H_0$, the means are different
+## C10S03Q20
+![image]![image](https://github.com/user-attachments/assets/b697ed2a-fb28-4712-9d0a-dbdc5f237eed)
