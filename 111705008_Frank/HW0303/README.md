@@ -7,3 +7,8 @@ If $\frac{s_E^2}{s_B^2} \leq 3$, the equal variance assumption is reasonable.
 $\frac{s_E^2}{s_B^2} =  \frac{2.78095}{0.17143} \approx 16.22 > 3$
 
 Therefore, it is more likely for the underlying variances to be different.
+### b.
+$H_0: \mu_1 - \mu_2 = 0 \quad \quad H_1: \mu_1 - \mu_2 \neq 0$
+$\alpha=0.05$
+Test satistic:
+$T=(X_1-X_2-D_0)\over sqrt{\frac{S_1^2}{n_1}+\frac{S_2^2}{n_2}}$
