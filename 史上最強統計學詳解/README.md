@@ -39,5 +39,5 @@ C10S07Qxx refers to questions in the review section (after page 429).
 | 陳筠緹 | HW0310Q3 | C10S06Q14 |
 | 周明瑄 | HW0310Q4 | C10S06Q16 |
 | 藍允澤 | HW0310Q5 | C10S06Q22 |
-| 吳心茹 | HW0310Q6 | When using rule of thumb to check if two variances are the same, approximate the significance level with $n_1=4$ and $n_2=3$. |
+| 吳心茹 | HW0310Q6 | When using rule of thumb to check if two variances<br> are the same, approximate the significance level with $n_1=4$ and $n_2=3$. |
 
