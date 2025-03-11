@@ -9,8 +9,10 @@
 | No | 系級   | 學號       | 姓名   | Name | GitHub  | Webpage                     | MFS                                |
 |----|------|-----------|------|------|---------|-----------------------------|-----------------------------------|
 | 0  | 資財系 | Professor | 鄧惠文 | Wen  | venteng | [venteng.github.io](https://venteng.github.io) | [MFS](https://venteng.github.io/MFS.html) |
+| 0 | 資財系| TA| 黃馨霈 | Wendy | hsin456 | ??? | ??? | 
 
 
+## The following will be removed after I collect the latest info. 
 
 | 中文姓名 | 學號       | 英文暱稱  | 系級       | GitHub 帳號 / Email |
 |---------|----------|---------|---------|------------------|
@@ -53,15 +55,3 @@
 | 黃泓文  | 112705001 | Rory    | 資財16   | Rory-Huang      |
 | 田淮筑  | 112705014 | 112705014 | 資財系  | aa112705014.mg12@nycu.edu.tw |
 | 曾啟豪  | 111450010 | Eason   | 15      | Eason988        |
-
----
-
-*Demo of your xxxxxxx_NAME/README.md in your folder*
-
-# Huei-Wen Teng
-
-*Created by Huei-Wen Teng on 20250217 Last updated on 20250217*
-
-1. [My gitHUB webapge](https://venteng.github.io) 
-2. [My MFS](https://venteng.github.io/MFS.html) 
-
