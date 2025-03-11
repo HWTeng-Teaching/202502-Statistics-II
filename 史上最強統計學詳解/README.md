@@ -25,7 +25,19 @@ C10S07Qxx refers to questions in the review section (after page 429).
 |-------|---------|------------|
 | 周佳叡 | HW0303Q1 | C10S03Q17  |
 | 林盈絢 | HW0303Q2 | C10S03Q20  |
-| 曾啟豪 | HW0303Q3 | C10S04Q20  |
+| 徐沛葳 | HW0303Q3 | C10S04Q20  |
 | 黃亦勤 | HW0303Q4 | C10S04Q22  |
 | 林昱宸 | HW0303Q5 | C10S07Q11  (in page 441)|
 | 張祐廷 | HW0303Q6 | C10S07Q12  (in page 441)|
+
+## HW0310
+
+| Name   | HWCODE   | Assignment |
+|--------|---------|------------|
+| 許柏堯 | HW0310Q1 | C10S05Q12 |
+| 陳珏睿 | HW0310Q2 | C10S05Q13 |
+| 陳筠緹 | HW0310Q3 | C10S06Q14 |
+| 周明瑄 | HW0310Q4 | C10S06Q16 |
+| 藍允澤 | HW0310Q5 | C10S06Q22 |
+| 吳心茹 | HW0310Q6 | When using rule of thumb to check if two variances are the same, approximate the significance level, when $n_1=4$, $n_2=3$. |
+
