@@ -2,24 +2,13 @@
 
 1. [如何登入microsoft TEAMS with microsoft TEAMS CODE: rrgsgfc](https://hackmd.io/dsB86sWTTYOTZ8h_mssHdw?view)
 2. [Earlier YOUTUBE vedios](https://venteng.github.io/Teaching/README.html)
-
 3. GitHUB info collection https://forms.gle/KVeBTDYtUxJcoJqu7
-4. IC0224 https://forms.gle/CcLP5Rs5ETvdgVSz7
 
-
-## To-Do 20250303
-
-1) Present Map, food, smiles
-2) Present HW of those assigned students
-3) CH10.3-10.4
-
-
-## T tables
-<img width="520" alt="image" src="https://github.com/user-attachments/assets/ea7b5824-348c-4227-a265-ce3f639300eb" />
-
-
----
 ## Participants
+
+| 系級｜學號｜姓名｜Name| GitHub|Webpage| MFS|
+|---|---|---|--|--|--|--|
+|資財系| Professor| 鄧惠文| Wen| venteng| https://venteng.github.io | https://venteng.github.io/MFS.html | 
 
 
 | 中文姓名 | 學號       | 英文暱稱  | 系級       | GitHub 帳號 / Email |
