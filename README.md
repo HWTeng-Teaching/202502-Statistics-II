@@ -9,7 +9,7 @@
 | No | 系級   | 學號       | 姓名   | Name | GitHub  | Webpage                     | MFS                                |
 |----|------|-----------|------|------|---------|-----------------------------|-----------------------------------|
 | 0  | 資財系 | Professor | 鄧惠文 | Wen  | venteng | [venteng.github.io](https://venteng.github.io) | [MFS](https://venteng.github.io/MFS.html) |
-| 0 | 資財系| TA| 黃馨霈 | Wendy | hsin456 | ??? | ??? | 
+| 0 | 資財系| TA| 黃馨霈 | Wendy | hsin456 | [hsin456.github.io](https://hsin456.github.io/) | [MFS](https://hsin456.github.io/map-food-smiles/) | 
 
 
 ## The following will be removed after I collect the latest info. 
