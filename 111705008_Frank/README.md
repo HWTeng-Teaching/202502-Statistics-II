@@ -34,9 +34,7 @@ Thus, the CI is $(3.46, 15.22)$.
 
 For standard deviation:
 
-$$
-\left( \sqrt{3.49}, \sqrt{15.34} \right) = (1.87, 3.92)
-$$
+$\left( \sqrt{3.46}, \sqrt{15.22} \right) = (1.86, 3.90)$
 
 ### d.
 
