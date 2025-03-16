@@ -20,7 +20,7 @@ Using the chi-square distribution,
 
 $\left( \frac{(n - 1) S^2}{\chi^2_{\alpha / 2, n - 1}}, \frac{(n - 1) S^2}{\chi^2_{1 - \alpha / 2, n - 1}} \right) = \left( \frac{15 \times 5.36}{27.49}, \frac{15 \times 5.36}{6.26} \right) = (2.29, 12.84)$
 
-Thus, the CI is (2.29, 12.84).
+Thus, the CI is $(2.29, 12.84)$.
 
 ### c. 
 
@@ -28,11 +28,9 @@ Construct a 95% CI for Variance and Standard Deviation of Yards per Pass:
 
 Using the chi-square distribution,
 
-$$
-\left( \frac{(n - 1) S_y^2}{\chi^2_{\alpha / 2, n - 1}}, \frac{(n - 1) S_y^2}{\chi^2_{1 - \alpha / 2, n - 1}} \right) = \left( \frac{15 \times 6.4}{27.49}, \frac{15 \times 6.4}{6.26} \right) = (3.49, 15.34)
-$$
+$\left( \frac{(n - 1) S_y^2}{\chi^2_{\alpha / 2, n - 1}}, \frac{(n - 1) S_y^2}{\chi^2_{1 - \alpha / 2, n - 1}} \right) = \left( \frac{15 \times 6.35}{27.49}, \frac{15 \times 6.35}{6.26} \right) = (3.46, 15.22)$
 
-Thus, the CI is (3.49, 15.34).
+Thus, the CI is $(3.46, 15.22)$.
 
 For standard deviation:
 
