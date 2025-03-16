@@ -18,9 +18,9 @@ Construct a 95% CI for Variance of Completions:
 
 Using the chi-square distribution,
 
-$$
-\left( \frac{(n - 1) S^2}{\chi^2_{\alpha / 2, n - 1}}, \frac{(n - 1) S^2}{\chi^2_{1 - \alpha / 2, n - 1}} \right) = \left( \frac{15 \times 21.07}{27.49}, \frac{15 \times 21.07}{6.26} \right) = (11.5, 50.49)
-$$
+$S^2=\frac{(n_1-1) S_1^2 + (n_2-1) S_2^2}{n_1+n_2-2}$
+
+$\left( \frac{(n - 1) S^2}{\chi^2_{\alpha / 2, n - 1}}, \frac{(n - 1) S^2}{\chi^2_{1 - \alpha / 2, n - 1}} \right) = \left( \frac{15 \times 21.07}{27.49}, \frac{15 \times 21.07}{6.26} \right) = (11.5, 50.49)$
 
 Thus, the CI is (11.5, 50.49).
 
