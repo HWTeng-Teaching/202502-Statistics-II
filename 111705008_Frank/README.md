@@ -22,7 +22,7 @@ $\left( \frac{(n - 1) S^2}{\chi^2_{\alpha / 2, n - 1}}, \frac{(n - 1) S^2}{\chi^
 
 Thus, the CI is $(2.29, 12.84)$.
 
-### c. 
+#### c. 
 
 Construct a 95% CI for Variance and Standard Deviation of Yards per Pass:
 
@@ -36,41 +36,16 @@ For standard deviation:
 
 $\left( \sqrt{3.46}, \sqrt{15.22} \right) = (1.86, 3.90)$
 
-### d.
+#### d.
+$H_0: \sigma_0 = 4$
 
-Define: $\sigma$ as the standard deviation of yards per pass.
+$H_a: \sigma_0 \neq 4$
 
-Hypothesis Test:
-
-$$
-H_0: \sigma = 4
-$$
-$$
-H_a: \sigma \neq 4
-$$
-$$
-\text{set } \alpha = 0.05
-$$
+$\text{set } \alpha = 0.05$
 
 Test statistic:
 
-Since the sample size is $n = 16$, we use the chi-square test for variance,
-
-$$
-\chi ^ 2 = \frac{(n - 1) S^2}{\sigma_0^2}
-$$
-
-The sample variance is
-
-$$
-S^2 = (2.53)^2 = 6.4
-$$
-
-Calculating,
-
-$$
-\chi^2 = \frac{(16 - 1) \times 6.4}{4^2} = \frac{15 \times 6.4}{16} = 6
-$$
+$\chi ^ 2 = \frac{(n - 1) S^2}{\sigma_0^2}=\frac{15 \times 2.52^2}{16} =5.95$
 
 The p-value for a two-tailed test is
 
