@@ -1,0 +1,31 @@
+
+
+### Hypotheses:
+- H₀ : σ₁² = σ₂²  
+- Hₐ : σ₁² ≠ σ₂²  
+
+### Significance Level:
+- α = 0.05
+
+### Test Statistic:
+$\[
+F = \frac{S_1^2}{S_2^2} \sim F_{n_1 - 1,\ n_2 - 1}
+\]$
+
+### Realized Test Statistic:
+$\[
+F = \frac{S_{\text{large}}^2}{S_{\text{small}}^2} = \frac{114^2}{103^2} = 1.225
+\]$
+
+### Rejection region:
+- From F-table: $\( F_{14,14,\ 0.025} \)$ is not available,
+- Use closest available value: $\( F_{15,14,\ 0.025} = 2.95 \)$
+
+### Conclusion:
+$\[
+1.225 < 2.95 \Rightarrow \text{p-value} > 0.025
+\]$
+- **We cannot reject H₀.**
+
+### Conclusion:
+There is insufficient evidence to show that there is a difference in variance of the two subjects.
