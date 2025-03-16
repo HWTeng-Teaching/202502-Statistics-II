@@ -1,6 +1,6 @@
 ## C10S05Q12
-![image](https://github.com/user-attachments/assets/a3ae6c22-0ca6-4e89-a326-f8be7f44eec7)
-
+![image](https://github.com/user-attachments/assets/8a3b763e-b5cc-49d5-b076-a7c732ab6004)
+![image](https://github.com/user-attachments/assets/f7d92974-7d23-4f09-bdf3-a5a9e90a0a84)
 
 ## C10S05Q13
 ![image](https://github.com/user-attachments/assets/66c7696a-15cd-4f30-ae1f-d3d13275a48b)
