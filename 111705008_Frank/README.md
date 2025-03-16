@@ -47,15 +47,11 @@ Test statistic:
 
 $\chi ^ 2 = \frac{(n - 1) S^2}{\sigma_0^2}=\frac{15 \times 2.52^2}{16} =5.95$
 
-The p-value for a two-tailed test is
+The critical value is $\chi_{15,0.025}^2 = 27.4884$ or $\chi_{15,0.975}^2 = 6.26214$
 
-$$
-p = 2 \times \min \left( P(\chi ^ 2_{15} > 6), P(\chi ^ 2_{15} < 6) \right) = 0.04
-$$
+The rejection region is { $\chi^2$: $\chi^2>27.4884$ or $\chi^2 < 6.26214$}
 
-Since 0.04 < 0.05, we reject $H_0$.
-
-Therefore, we reject the null hypothesis and conclude that the standard deviation of yards per pass is significantly different from 4.
+Since $5.95<6.26214$, we reject $H_0$ and say there is sufficient evidence to show that the standard deviation of the yards per pass for this quarterback differs from $\sigma = 4$.
 
 ## C10S05Q13
 ![image](https://github.com/user-attachments/assets/66c7696a-15cd-4f30-ae1f-d3d13275a48b)
