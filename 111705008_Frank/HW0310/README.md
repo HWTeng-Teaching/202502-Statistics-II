@@ -59,7 +59,7 @@ Since $5.95<6.26214$, we reject $H_0$ and say there is sufficient evidence to sh
 
 ## C10S05Q13
 ![image](https://github.com/user-attachments/assets/66c7696a-15cd-4f30-ae1f-d3d13275a48b)
-**a**
+#### a
 
 $H_0: \sigma_0 = 0.7$
 
@@ -77,7 +77,16 @@ $\chi^2 = \frac{(4-1)(3.6667)}{0.7^2}=\frac{3 \times 3.667}{0.49}=\frac{11.001}{
 
 Critical value: $\chi_0.05,3 =7.815$
 
-Since $22.45 > 7.815$, we reject $H_0$ and say the variance is significantly greater than 7.815. 
+Since $22.45 > 7.815$, we reject $H_0$ and say the variance is significantly greater than 7.815.
+
+#### b
+
+Confidence interval: $(\frac{(n-1)S^2}{\chi^2_upper},\frac{(n-1)S^2}{\chi^2_lower})$
+
+**Calcutlate the CI**
+
+$90% CI = (\frac{(3)(3.667)}{7.815},\frac{(3)(3.667)}{0.352}) = (\frac{11.001}{7.815},\frac{11.001}{0.352}) = (1.408,31.253)$
+
 
 ## C10S06Q14
 ![image](https://github.com/user-attachments/assets/618c6142-0194-4b39-b807-8555b2291d5c)
