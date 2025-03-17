@@ -4,6 +4,29 @@
 2. [Earlier YOUTUBE vedios](https://venteng.github.io/Teaching/README.html)
 3. GitHUB info collection https://forms.gle/KVeBTDYtUxJcoJqu7
 
+## HW presentation before Exam 1
+
+| 中文姓名  | HWcode   | Assignment  | GRADE |
+|----------|---------|-------------|-------|
+| 徐沛葳  | HW0303Q3 | C10W04Q20   | 0     |
+| 周佳叡  | HW0303Q1 | C10S03Q17   | 0     |
+| 林盈絢  | HW0303Q2 | C10S03Q20   | 90    |
+| 黃以樂  | HW0224Q5 | C10S02Q35   | 100   |
+| 黃亦勤  | HW0303Q4 | C10W04Q22   | 0     |
+| 林昱宸  | HW0303Q5 | C10S07Q11   | 90    |
+| 許柏堯  | HW0310Q1 | C10S05Q12   | 90    |
+| 張祐廷  | HW0303Q6 | C10S07Q12   | 0     |
+| 陳珏睿  | HW0310Q2 | C10S05Q13   | 90    |
+| 陳筠緹  | HW0310Q3 | C10S06Q14   | 90    |
+| 周明瑄  | HW0310Q4 | C10S06Q16   | 90    |
+| 藍允澤  | HW0310Q5 | C10S06Q22   | 90    |
+| 王冠築  | HW0224Q1 | C10S01Q13-Q15 (How do we draw the normal probability plot?) | 90    |
+| 吳心茹  | HW0310Q6 | When using rule of thumb to check if two variances are the same, approximate the significance level, when $n_1=4$, $n_2=3$. | 90 |
+| 許秝甄  | HW0224Q2 | C10S02Q20   | 90    |
+| 吳孟庭  | HW0224Q3 | C10S02Q30   | 90    |
+| 廖靖綾  | HW0224Q4 | C10S02Q32 (格式有點奇怪?) | 90 |
+
+
 ## Participants
 
 | No | 系級   | 學號       | 姓名   | Name | GitHub  | Webpage                     | MFS                                |
