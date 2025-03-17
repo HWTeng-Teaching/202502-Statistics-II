@@ -43,11 +43,15 @@ $H_a: \sigma_0 \neq 4$
 
 $\text{set } \alpha = 0.05$
 
+Test statistic and its sampling distribution:
+
+$\chi^2_{STAT} = \frac{(n - 1) S^2}{\sigma_0^2}\sim \chi^2_{n-1}$
+
 Test statistic:
 
 $\chi ^ 2 = \frac{(n - 1) S^2}{\sigma_0^2}=\frac{15 \times 2.52^2}{16} =5.95$
 
-The critical value is $\chi_{15,0.025}^2 = 27.4884$ or $\chi_{15,0.975}^2 = 6.26214$
+The critical value is $\chi_{15;0.025}^2 = 27.4884$ or $\chi_{15;0.975}^2 = 6.26214$
 
 The rejection region is { $\chi^2$: $\chi^2>27.4884$ or $\chi^2 < 6.26214$}
 
