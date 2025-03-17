@@ -30,7 +30,7 @@ Using the chi-square distribution,
 
 $\left( \frac{(n - 1) S_y^2}{\chi^2_{\alpha / 2, n - 1}}, \frac{(n - 1) S_y^2}{\chi^2_{1 - \alpha / 2, n - 1}} \right) = \left( \frac{15 \times 6.35}{27.49}, \frac{15 \times 6.35}{6.26} \right) = (3.46, 15.22)$
 
-Thus, the CI is $(3.46, 15.22)$.
+Thus, the CI for variance is $(3.46, 15.22)$.
 
 For standard deviation:
 
