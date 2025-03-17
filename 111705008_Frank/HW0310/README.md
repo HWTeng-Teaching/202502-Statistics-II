@@ -102,5 +102,12 @@ $CI = (\frac{(3)(3.667)}{7.815},\frac{(3)(3.667)}{0.352}) = (\frac{11.001}{7.815
 ## C10S06Q16
 ![image](https://github.com/user-attachments/assets/a2049937-93ba-487d-8ff2-83a5651f83df)
 
+1. $H_0: \sigma_c^2-\sigma_p^2 = 0 H_a: \sigma_c^2-\sigma_p^2 \neq 0$
+2. $a=0.05$
+3. Test statistic: $\frac{S_c^2}{S_p^2} \approx F_{n_1-1,n_2-1}$
+4. Realized test statistic: $F\* = \frac{114^2}{103^2} = 1.225$
+5. Since $F\* < 2.01 = F_{15,14,0.1}, F\*>F_{14,14,0.1}$\ Thus P-value > 0.1.
+6. Since P-value $> a$, we do not reject$H_0$.
+
 ## C10S06Q22
 ![image](https://github.com/user-attachments/assets/698ff020-856c-4f34-a82c-2a225be23bc4)
