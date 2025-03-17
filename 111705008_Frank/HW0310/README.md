@@ -83,9 +83,9 @@ Since $22.45 > 7.815$, we reject $H_0$ and say the variance is significantly gre
 
 Confidence interval: $(\frac{(n-1)S^2}{\chi^2_upper},\frac{(n-1)S^2}{\chi^2_lower})$
 
-**Calcutlate the CI**
+**Calcutlate the 90% CI**
 
-$90% CI = (\frac{(3)(3.667)}{7.815},\frac{(3)(3.667)}{0.352}) = (\frac{11.001}{7.815},\frac{11.001}{0.352}) = (1.408,31.253)$
+$CI = (\frac{(3)(3.667)}{7.815},\frac{(3)(3.667)}{0.352}) = (\frac{11.001}{7.815},\frac{11.001}{0.352}) = (1.408,31.253)$
 
 
 ## C10S06Q14
