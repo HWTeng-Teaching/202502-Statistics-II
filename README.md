@@ -6,6 +6,9 @@
 
 ## HW presentation before Exam 1
 
+1. Improve your file according to the grading policy and let me know if your score needs to changed. 
+2. For those who did not present yet, present in on March 24. 
+
 | 中文姓名  | HWcode   | Assignment  | GRADE |
 |----------|---------|-------------|-------|
 | 徐沛葳  | HW0303Q3 | C10W04Q20   | 0     |
