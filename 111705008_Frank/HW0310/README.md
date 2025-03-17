@@ -111,3 +111,15 @@ $CI = (\frac{(3)(3.667)}{7.815},\frac{(3)(3.667)}{0.352}) = (\frac{11.001}{7.815
 
 ## C10S06Q22
 ![image](https://github.com/user-attachments/assets/698ff020-856c-4f34-a82c-2a225be23bc4)
+
+#### a
+1. $H_0: \sigma_1^2-\sigma_2^2 = 0 H_a: \sigma_1^2-\sigma_2^2 \neq 0$
+2. $a=0.01$
+3. Test statistic: $\frac{\frac{S_2^2}{\sigma_2^2}}{\frac{S_1^2}{\sigma_1^2}} \approx F_{14,14}$
+4. Realized test statistic: $F\* = \frac{2.96}{1.54} = 1.922$
+5. Since $F\* < 3.66 = F_{15,14,0.1}, F\*>F_{14,14,0.1}$\ Thus P-value > 0.01.
+6. Since P-value $> a$, we do not reject$H_0$ and say there is insufficient evidence to indicate a difference between the varaiables.
+
+#### b
+
+$1-a=99%=P(\frac{S_2^2}{S_1^2} \times \frac{1}{F_{14,14,0.01/1} < \frac{\sigma_2^2}{\sigma_1^2)<\frac{S_2^2}{S_1^2} \times F_{14,14,0.01/2} = P(0.446 < \frac{\sigma_2^2}{\sigma_1^2} < 8.284)$
