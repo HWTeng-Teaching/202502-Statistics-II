@@ -6,8 +6,8 @@
 
 ## HW presentation before Exam 1
 
-1. Improve your file according to the grading policy and let me know if your score needs to changed. 
-2. For those who did not present yet, present in on March 24. 
+1. Review your file according to the grading policy and inform me if your score needs to be adjusted on March 24.
+2. Students who have not yet presented must do so on March 24.
 
 | 中文姓名  | HWcode   | Assignment  | GRADE |
 |----------|---------|-------------|-------|
