@@ -93,8 +93,8 @@ $CI = (\frac{(3)(3.667)}{7.815},\frac{(3)(3.667)}{0.352}) = (\frac{11.001}{7.815
 
 ![image](https://github.com/user-attachments/assets/8950149f-7f78-4aca-8eb1-7c6ac493ad7b)
 
-1. $\H_0: \sigma_1^2-\sigma_2^2 = 0 \H_a: \sigma_1^2-\sigma_2^2 < 0$
-2. $\a=0.05$
+1. $H_0: \sigma_1^2-\sigma_2^2 = 0 H_a: \sigma_1^2-\sigma_2^2 < 0$
+2. $a=0.05$
 3. Test statistic: $\frac{S_2^2}{S_1^2} \approx F_{n_1-1,n_2-1}$
 4. Realized test statistic: $F\* = \frac{28.2^2}{15.6^2} = 3.268$
 5. Since $F\* > 2.49 = F_{24,29,0.01}, F\*>F_{29,29,0.01}$\ Thus P-value < 0.01.
