@@ -67,8 +67,17 @@ $H_a: \sigma_0 > 0.7$
 
 $\bar{x} = \frac{353+351+351+355}{4}=352.5$
 
-$S^2= \frac{353^2+351^2+351^2+355^2-4 \times 352.5^2}{3}= \frac{11}{3}$
+$S^2= \frac{353^2+351^2+351^2+355^2-4 \times 352.5^2}{3}= \frac{11}{3} \approx 3.6667$
 
+$s = \sqrt{3.6667} \approx 1.915$
+
+$\chi^2 = \frac{(n-1) s^2}{\sigma_0^2}$  
+
+$\chi^2 = \frac{(4-1)(3.6667)}{0.7^2}=\frac{3 \times 3.667}{0.49}=\frac{11.001}{0.49} \approx 22.45$
+
+Critical value: $\chi_0.05,3 =7.815$
+
+Since $22.45 > 7.815$, we reject $H_0$ and say the variance is significantly greater than 7.815. 
 
 ## C10S06Q14
 ![image](https://github.com/user-attachments/assets/618c6142-0194-4b39-b807-8555b2291d5c)
