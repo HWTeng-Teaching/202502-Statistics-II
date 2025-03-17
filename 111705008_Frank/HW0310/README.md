@@ -92,6 +92,8 @@ $CI = (\frac{(3)(3.667)}{7.815},\frac{(3)(3.667)}{0.352}) = (\frac{11.001}{7.815
 ![image](https://github.com/user-attachments/assets/618c6142-0194-4b39-b807-8555b2291d5c)
 
 ![image](https://github.com/user-attachments/assets/8950149f-7f78-4aca-8eb1-7c6ac493ad7b)
+
+1. $\H_0: \sigma_1^2-\sigma_2^2 = 0 \H_a: \sigma_1^2-\sigma_2^2 < 0$
 ## C10S06Q16
 ![image](https://github.com/user-attachments/assets/a2049937-93ba-487d-8ff2-83a5651f83df)
 
