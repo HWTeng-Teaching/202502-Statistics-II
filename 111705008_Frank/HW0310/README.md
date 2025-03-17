@@ -59,6 +59,16 @@ Since $5.95<6.26214$, we reject $H_0$ and say there is sufficient evidence to sh
 
 ## C10S05Q13
 ![image](https://github.com/user-attachments/assets/66c7696a-15cd-4f30-ae1f-d3d13275a48b)
+**a**
+
+$H_0: \sigma_0 = 0.7$
+
+$H_a: \sigma_0 > 0.7$
+
+$\bar{x} = \frac{353+351+351+355}{4}=352.5$
+
+$S^2= \frac{353^2+351^2+351^2+355^2-4 \times 352.5^2}{3}= \frac{11}{3}$
+
 
 ## C10S06Q14
 ![image](https://github.com/user-attachments/assets/618c6142-0194-4b39-b807-8555b2291d5c)
