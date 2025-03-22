@@ -1,1 +1,38 @@
 
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a0fa8f23-45f0-4313-b3f3-22cac513e5ee" />
+
+## a. Hypothesis Test for Instrument Precision
+
+We test:
+
+- $H_0: \sigma = 0.7$
+- $H_a: \sigma > 0.7$
+
+Given data: $353, 351, 351, 355$
+
+Mean:
+$\bar{x} = \frac{353 + 351 + 351 + 355}{4} = 352.5$
+
+Sample variance:
+$s^2 = \frac{(353 - 352.5)^2 + (351 - 352.5)^2 + (351 - 352.5)^2 + (355 - 352.5)^2}{3}$
+
+$= \frac{0.25 + 2.25 + 2.25 + 6.25}{3} = 3.67$
+
+Test statistic:
+$\chi^2 = \frac{(n-1) s^2}{\sigma_0^2} = \frac{3 \times 3.67}{0.7^2} = 22.47$
+
+Using the chi-square table with $df = 3$ and $\alpha = 0.05$, the critical value is $\chi^2_{0.05,3} = 7.815$. Since $22.47 > 7.815$, we reject $H_0$, meaning there is significant evidence that the variance is greater than 0.7.
+
+---
+
+## b. 90% Confidence Interval for Population Variance
+
+Using the chi-square method:
+
+$\left( \frac{(n-1) s^2}{\chi^2_{0.05}}, \frac{(n-1) s^2}{\chi^2_{0.95}} \right)$
+
+Substituting values:
+$\left( \frac{3 \times 3.67}{7.815}, \frac{3 \times 3.67}{0.352} \right)$
+
+$\left( 1.41, 31.28 \right)$
+
