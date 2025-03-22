@@ -1,1 +1,25 @@
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/3548fca4-e225-4ed3-8ca0-c5ee4ce011e4" />
+<br>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/75f263ec-8cfb-437e-9390-3e34bd7ee90f" />
 
+We test whether the older system has greater variability than the new system.
+
+### **1. Hypotheses**
+- $H_0: \sigma_1^2 = \sigma_2^2$
+- $H_a: \sigma_1^2 < \sigma_2^2$ (one-tailed test)
+
+### **2. Test Statistic**
+Using the F-test:
+$F = \frac{s_2^2}{s_1^2} = \frac{28.2^2}{15.6^2}$
+
+$F = \frac{795.24}{243.36} = 3.27$
+
+### **3. Critical Value and p-value**
+Degrees of freedom:
+- $df_1 = n_1 - 1 = 30 - 1 = 29$
+- $df_2 = n_2 - 1 = 30 - 1 = 29$
+
+Using an F-table for $\alpha = 0.05$, the critical value $F_{0.05,29,29}$ is approximately **1.86**.
+And the p-value is less than 0.05.
+
+Since $F = 3.27 > 1.86$, we reject $H_0$ and conclude that the older system has significantly higher variability.
