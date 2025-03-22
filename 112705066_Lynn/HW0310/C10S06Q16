@@ -1,1 +1,37 @@
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/6be0f60b-50ae-4a45-9285-da19709e46f9" />
 
+### **1. Hypotheses**
+- $H_0: \sigma_1^2 = \sigma_2^2$
+- $H_a: \sigma_1^2 \neq \sigma_2^2$ (two-tailed test)
+
+### **2. Given Data**
+#### Chemistry (Group 1):
+- Sample Mean: $\bar{x}_1 = 784$
+- Sample Standard Deviation: $s_1 = 114$
+- Sample Size: $n_1 = 15$
+- Sample Variance: $s_1^2 = 114^2 = 12996$
+
+#### Physics (Group 2):
+- Sample Mean: $\bar{x}_2 = 758$
+- Sample Standard Deviation: $s_2 = 103$
+- Sample Size: $n_2 = 15$
+- Sample Variance: $s_2^2 = 103^2 = 10609$
+
+### **3. Test Statistic**
+Using the F-test:
+$F = \frac{\text{Larger Variance}}{\text{Smaller Variance}} = \frac{s_1^2}{s_2^2} = \frac{12996}{10609}$
+
+$F \approx 1.225$
+
+### **4. Degrees of Freedom**
+- Numerator: $df_1 = n_1 - 1 = 15 - 1 = 14$
+- Denominator: $df_2 = n_2 - 1 = 15 - 1 = 14$
+
+### **5. p-Value Approximation**
+From an F-distribution table or statistical software:
+$p \approx 0.4$
+
+### **6. Conclusion**
+- Since $p > 0.05$, we fail to reject $H_0$.
+- There is **no significant difference** in population variances.
+- We can assume equal variances and proceed with a pooled variance t-test.
