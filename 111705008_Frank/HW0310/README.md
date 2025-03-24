@@ -57,6 +57,8 @@ The rejection region is { $\chi^2$: $\chi^2>27.4884$ or $\chi^2 < 6.26214$}
 
 Since $5.95<6.26214$, we reject $H_0$ and say there is sufficient evidence to show that the standard deviation of the yards per pass for this quarterback differs from $\sigma = 4$.
 
+reviewed by 黃馨霈 20250324 $\textbf{\textcolor{red}{score: 60}}$ (a), (b), (c), (d) all wrong! $s^2$ of completions is 22.1333, and mean is 22.5. The test statistic for (d) is 6.005 and reject $H_0$.
+
 ## C10S05Q13
 ![image](https://github.com/user-attachments/assets/66c7696a-15cd-4f30-ae1f-d3d13275a48b)
 #### a
