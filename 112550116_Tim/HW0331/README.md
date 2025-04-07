@@ -1,1 +1,6 @@
-
+![image](https://github.com/HWTeng-Teaching/202502-Statistics-II/blob/main/112550116_Tim/HW0331/IMG_1517.jpeg)
+![image](https://github.com/HWTeng-Teaching/202502-Statistics-II/blob/main/112550116_Tim/HW0331/IMG_1518.jpeg)
+![image](https://github.com/HWTeng-Teaching/202502-Statistics-II/blob/main/112550116_Tim/HW0331/IMG_1519.jpeg)
+![image](https://github.com/HWTeng-Teaching/202502-Statistics-II/blob/main/112550116_Tim/HW0331/IMG_1520.jpeg)
+![image](https://github.com/HWTeng-Teaching/202502-Statistics-II/blob/main/112550116_Tim/HW0331/IMG_1521.jpeg)
+![image](https://github.com/HWTeng-Teaching/202502-Statistics-II/blob/main/112550116_Tim/HW0331/IMG_1522.jpeg)
