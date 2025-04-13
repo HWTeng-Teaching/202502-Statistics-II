@@ -14,3 +14,9 @@ Factor: Daily doses of vitamin C
 Levels: 3
 ## Solution of 14
 100 items are too little to assume normal distribution, and by the nature of defecting rate, it can be an extreme value.
+
+## C11S02Q10
+![image](https://github.com/user-attachments/assets/64e6c932-ba49-4d46-9900-e3adefd0f4cb)
+
+![image](https://github.com/user-attachments/assets/c70cf92e-d3a0-48a0-919f-f9e806d1e0be)
+
