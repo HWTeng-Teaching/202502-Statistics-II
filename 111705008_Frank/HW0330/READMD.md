@@ -19,11 +19,15 @@ Levels: 3
 ![image](https://github.com/user-attachments/assets/64e6c932-ba49-4d46-9900-e3adefd0f4cb)
 
 ![image](https://github.com/user-attachments/assets/c70cf92e-d3a0-48a0-919f-f9e806d1e0be)
+![image](Q2.JPG)
 ## C11S02Q14
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/45d83f92-f5ed-4477-85b5-fed45fda7e16" /><br>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/269c1e27-905d-48b8-9408-35d68f7fbe52" />
+![image](Q3.1.JPG)
+![image](Q3.2.JPG)
 ## C11S02Q8
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/fa148a5f-c720-4153-985e-f0ee10d6f18e" />
+![image](Q4.JPG)
 ## C11S03Q16
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/49f1d3ad-cdb3-4979-ad51-5fa2f79b13ad" />
 ## C11S03Q17
