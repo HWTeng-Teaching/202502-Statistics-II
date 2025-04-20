@@ -40,8 +40,6 @@ By the table it provided
 
 90% CI: $(112.130, 157.900)$
 
-$CI=\hat{y}(x_0)\pm t^* \cdot SE_\hat{y}$
-
 $t^* = t_{n-2,0.1} = t_{10,0.1} = 1.812$
 
 $x_0 = 0.20$
@@ -49,3 +47,5 @@ $x_0 = 0.20$
 $SE_{\hat{y}} = s \cdot \sqrt{ \frac{1}{n} + \frac{(x_0 - \bar{x})^2}{\sum (x_i - \bar{x})^2} } = 12.6264$
 
 $s=\sqrt{\frac{\sum (y_i - \hat{y_i})^2}{n-2}} = 39.04190$
+
+$CI=\hat{y}(x_0)\pm t^* \cdot SE_\hat{y} = 135.01531\pm 1.812 \cdot 12.6264 = (112.130, 157.900)$
