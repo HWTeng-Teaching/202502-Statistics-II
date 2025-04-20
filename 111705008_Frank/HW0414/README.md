@@ -19,4 +19,23 @@ $a = \bar{y}-b\bar{x} =  80.85$
 
 Least-squares line: $\hat{y} = 80.9 + 270.8x$ 
 
+![image](https://github.com/user-attachments/assets/5a53233d-12c3-4ba2-b6ca-f506415ae612)
+
 **c.**
+$H_0: \quad b = 0$
+
+$H_a: \quad b \neq 0$  
+
+$\alpha = 0.05$
+
+$\because p-value = 0.003 < 0.05$  
+
+$\therefore reject \quad H_0$  
+
+The data provide sufficient evidence of a linear relationship
+
+**d.**
+
+By the table it provided
+
+90% CI: $(112.130, 157.900)$
