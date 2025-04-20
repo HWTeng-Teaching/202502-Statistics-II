@@ -33,6 +33,15 @@ By CTL, this is binomial distribution $bin~X(100,p)$, and may be a normal distri
 ## C11S03Q16
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/49f1d3ad-cdb3-4979-ad51-5fa2f79b13ad" />
 
+$$
+\omega = q_{\alpha}(k, N-k) \times \sqrt{\frac{MSE}{n_t}}
+= q_{0.01}(4, 16) \times \sqrt{\frac{41.25}{5}}
+= 5.19 \times \sqrt{\frac{41.25}{5}}
+= 14.907
+$$
+
+$\bar{x_2}$ differes from otehr means, as its difference with $\bar{x_3}$ exceeds $\omega$
+
 ## C11S03Q17
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/f175430a-b80d-477e-b58c-24dc45dae722" /><br>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/3bc7dd32-6bd2-4f70-85e9-62127b7bca6a" />
