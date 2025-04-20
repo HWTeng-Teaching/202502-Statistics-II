@@ -39,3 +39,5 @@ The data provide sufficient evidence of a linear relationship
 By the table it provided
 
 90% CI: $(112.130, 157.900)$
+
+$CI=\hat{y}(x_0)\pm t^* \cdot SE_\hat{y}$
