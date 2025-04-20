@@ -7,3 +7,7 @@
 ![image](https://github.com/user-attachments/assets/54efc361-5fac-4fe7-8cf6-621d8c156613)
 
 We can observe a positive correlation between phosphorus applied to the soil and phosphorus present in the plant, and some variability within the same X.
+
+**b.**
+$$\bar{x}=0.2834, \bar{y}=157.5834$$
+Let the best fitting line be $\cap{y} = a+bx$
