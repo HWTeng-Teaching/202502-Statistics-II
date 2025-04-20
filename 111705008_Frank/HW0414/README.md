@@ -10,4 +10,13 @@ We can observe a positive correlation between phosphorus applied to the soil and
 
 **b.**
 $$\bar{x}=0.2834, \bar{y}=157.5834$$
-Let the best fitting line be $\cap{y} = a+bx$
+
+Let the best fitting line be $\hat{y} =  a + bx$
+
+$b = \frac{SXY}{SXX} = \frac{88.4667}{0.3267} = 270.82$
+
+$a = \bar{y}-b\bar{x} =  80.85$
+
+Least-squares line: $\hat{y} = 80.9 + 270.8x$ 
+
+**c.**
