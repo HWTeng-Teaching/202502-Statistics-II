@@ -3,6 +3,7 @@
 
 **a.**
 [Code](https://colab.research.google.com/drive/1T_WxMZXH9CYbe7u58Rf_r-Eb6VBs2W0d?usp=sharing)
+
 ![image](https://github.com/user-attachments/assets/54efc361-5fac-4fe7-8cf6-621d8c156613)
 
 We can observe a positive correlation between phosphorus applied to the soil and phosphorus present in the plant, and some variability within the same X.
