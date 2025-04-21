@@ -22,6 +22,7 @@ Least-squares line: $\hat{y} = 80.9 + 270.8x$
 ![image](https://github.com/user-attachments/assets/5a53233d-12c3-4ba2-b6ca-f506415ae612)
 
 **c.**
+
 $H_0: \quad b = 0$
 
 $H_a: \quad b \neq 0$  
