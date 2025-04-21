@@ -1,0 +1,55 @@
+by 黃泓文 112705001
+
+## Question
+
+![image](https://github.com/user-attachments/assets/d2b4b2d2-ce86-4e23-a338-5b57f55952d5/)
+
+## Solution
+
+### a.
+
+x: body temperature
+
+y: heart rate
+
+y is related to x
+
+$$
+S_{xy} = \sum xy - \frac{\sum x \sum y}{n}= 88140.6 - \frac{1180.3 \times 896}{12} = 11.5333
+$$
+
+$$
+S_{xx} = \sum x^2 - \frac{(\sum x)^2}{n}= 116103.03 - \frac{1180.3^2}{12} = 10.6892
+$$
+
+$$
+S_{yy} = \sum y^2 - \frac{(\sum y)^2}{n}= 67312 - \frac{896^2}{12} = 410.6667
+$$
+
+$$
+r = \frac{S_{xy}}{\sqrt{S_{xx}S_{yy}}} = \frac{11.5333}{\sqrt{10.6892 \times 410.6667}} = 0.1741
+$$
+
+### b.
+
+$H_0: \quad \rho = 0$
+
+$H_a: \quad \rho \neq 0$
+
+$\alpha = 0.05$
+
+Use the t-statistic,
+
+$$
+t_{STAT} = r \times \sqrt{\frac{n-2}{1-r^2}} \sim t_{n-2}
+$$
+
+$$
+t^* = 0.1741 \times \sqrt{\frac{10}{1-0.1741^2}} = 0.5591
+$$
+
+Reject $H_0$ if $t > t_{10,0.025}$ = 2.228
+
+Since 0.5591 < 2.228, we fail to reject $H_0$.
+
+There is no sufficient evidence to indicate that there is a correlation between these two variables.
