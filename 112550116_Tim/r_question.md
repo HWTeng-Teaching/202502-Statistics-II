@@ -26,9 +26,3 @@ $$
 \Rightarrow |r| \leq 1
 \Rightarrow r \in [-1, 1]
 $$
-
-### Conclusion
-Therefore, the correlation coefficient $r$ must lie within the interval $[-1, 1]$:
-- $r = 1$: perfect positive linear relationship
-- $r = -1$: perfect negative linear relationship
-- $r = 0$: no linear relationship
