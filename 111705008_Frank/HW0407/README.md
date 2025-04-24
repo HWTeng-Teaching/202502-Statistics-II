@@ -1,5 +1,11 @@
 ## C12S01Q21
 ![image](https://github.com/user-attachments/assets/1ac20f5e-fab5-49f9-a360-0fdd9ac402ad)
+
+**a.**\
+$\hat{y} = a+bx$\
+$b = \frac{S_xy}{S_xx} = \frac{\sum{xy}-\frac{\sum{x} \sum{y}}{n}}{\sum{x^2} -\frac{(\sum{x})^2}{n}} = 0.9746$\
+$a = \bar{y} - b \bar{x} $ 
+
 ## C12S01Q22
 ![image](https://github.com/user-attachments/assets/10c640ba-23f4-4aab-834b-2b68c2cbea47)
 
