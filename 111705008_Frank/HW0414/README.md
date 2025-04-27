@@ -37,6 +37,23 @@ In the normal probability plot, the residuals closely follow the straight line. 
 
 The variance assumptions appears violated.
 
+**c.**\
+![image](https://github.com/user-attachments/assets/07cebaef-312b-4dcd-8a22-90e91288e42d)
+
+We see no clear relation between price and size. Therefore the assumption of linearity is violated.
+## C12S05Q12
+<img width="400" alt="img" src="https://github.com/user-attachments/assets/b742261b-6520-4995-97ae-a12520d0f389"/>
+
+**a.**\
+$\hat{y} = a+bx$\
+$b = \frac{S_xy}{S_xx} = \frac{\sum{xy}-\frac{\sum{x} \sum{y}}{n}}{\sum{x^2} -\frac{(\sum{x})^2}{n}} = 1.5$\
+$a = \bar{y} - b \bar{x} = 4.3$
+
+Least-squares regression line: $\hat{y}=4.3+1.5x$
+
+**b.**\
+
+
 ## C12S05Q18
 <img width="600" alt="img" src=https://github.com/user-attachments/assets/ae6537c1-951e-48e6-a8c2-28da615d9dfb/>
 
