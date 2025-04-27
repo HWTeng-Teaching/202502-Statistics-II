@@ -154,3 +154,22 @@ $r^2 = \frac{SSR}{TSS} = \frac{0.181243}{0.186375} = 0.9725$\
 ![image](https://github.com/user-attachments/assets/fa38863b-434f-4f53-a0e6-36df323360ab)
 
 ![image](https://github.com/user-attachments/assets/8f48d531-593c-43a8-ba6d-77f24622c58e)
+
+**a.**\
+$\har{y} = 93.617-1.251x$
+
+**b.**\
+$H_0: \quad b = 0, H_a: \quad b \neq 0$\
+$\alpha = 0.05$
+
+$p-value = 0.000 < 0.05$, therefore we reject $H_0$ and say there is sufficient evidence to indicate that x and y are linearly related
+
+**c.**\
+lower 95%: $1.559$\  
+upper 95%: $\ -1.251 + 2.571 * 0.12 = -0.942\$
+
+the 95% CI is $(-1.559, -0.942)$
+
+**d.**\
+$R^2 = 0.9564$  
+95.64% of the variation in the percentage arrested can be explained by the linear relationship with group median age.  
