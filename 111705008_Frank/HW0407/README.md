@@ -96,7 +96,40 @@ $SSE =45007.2−43146.93 = 1860.27$
 **a.**\
 ![image](https://github.com/user-attachments/assets/4a99cc18-b0c7-4f31-95c6-a2b70bdfe441)
 
-A positive linear realtionship between Years past and Miles of Roadways.
+**b.**\
+$\hat{y}=a+bx$\
+$S_{xy} = \sum xy - \frac{\sum x \sum y}{n}= 
+132.8 - \frac{120 \times 16.66}{16} = 7.85\
+$S_{xx} = \sum x^2 - \frac{(\sum x)^2}{n}= 1240 - \frac{120^2}{16} = 340$\
+$b = \frac{S_{xy}}{S_{xx}} = \frac{7.85}{340
+} = 0.0231$\
+$a = \bar{y} - b\bar{x} = 0.8681$
+
+least-squares regression line: $\hat{y}=0.8681+0.0231x$
+
+$TSS = S_{yy} = \sum y^2 - \frac{(\sum y)^2}{n} = 17.5336 - \frac{16.66^2}{5} = 0.186375$\
+$SSR = \frac{S_{xy}^2}{Syy} = \frac{7.85^2}{340} = 0.181243$\
+$SSE = 0.186375 - 0.181243 = 0.005132$\
+$MSE = \frac{SSE}{n-2} = \frac{0.005132}{14} = 0.000367$
+
+To test if x is useful in predicting y.
+
+$H_0: \quad b = 0, H_a: \quad b \neq 0$
+
+$\alpha = 0.05$
+
+$t_{STAT} = \frac{b-0}{\sqrt{MSE/S_{xx}}} \sim t_{n-2}$\
+$t^* = \frac{b-0}{\sqrt{MSE/S_{xx}}} = \frac{0.0231}{\sqrt{0.000367/340}} = 7.031$\
+critical value: $t_{n-2, \alpha/2} = t_{14,0.025} = 2.145$
+
+$7.031 > 2.145$, therefore we reject $H_0$ and say there is a linear relationship between the number of miles of roadways and the year.
+
+**c.**\
+| Source | df | SS | MS | F |
+|:------|:------|:------|:------|:------|
+| Regression | 1 | 0.181243 | 0.181243 | 493.85 |
+| Error | 14 | 0.005132 | 0.000367 |  |
+| Total | 15 | 0.186375 |  |  |
 ## C12S03Q10
 ![image](https://github.com/user-attachments/assets/fa38863b-434f-4f53-a0e6-36df323360ab)
 
