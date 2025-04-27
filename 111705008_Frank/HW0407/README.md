@@ -119,10 +119,10 @@ $H_0: \quad b = 0, H_a: \quad b \neq 0$
 $\alpha = 0.05$
 
 $t_{STAT} = \frac{b-0}{\sqrt{MSE/S_{xx}}} \sim t_{n-2}$\
-$t^* = \frac{b-0}{\sqrt{MSE/S_{xx}}} = \frac{0.0231}{\sqrt{0.000367/340}} = 7.031$\
+$t^* = \frac{b-0}{\sqrt{MSE/S_{xx}}} = \frac{0.0231}{\sqrt{0.000367/340}} = 22.234$\
 critical value: $t_{n-2, \alpha/2} = t_{14,0.025} = 2.145$
 
-$7.031 > 2.145$, therefore we reject $H_0$ and say there is a linear relationship between the number of miles of roadways and the year.
+$22.234 > 2.145$, therefore we reject $H_0$ and say there is a linear relationship between the number of miles of roadways and the year.
 
 **c.**
 | Source | df | SS | MS | F |
@@ -146,6 +146,10 @@ $F_{1,14} = \frac{MSR}{MSE} = \frac{0.181243}{0.000367} = 493.85$\
 critical value: $F_{1,14,0.05} = 4.6001$
 
 $493.85 > 4.6001$, therefore we reject $H_0$ and say there is a linear relationship between the number of miles of roadways and the year.$\
+**d.**\
+$r^2 = \frac{SSR}{TSS} = \frac{0.181243}{0.186375} = 0.9725$\
+97.25% of the variation in the miles of roadways can be explained by the linear relationship with the year. The regression model strongly fit the datat.
+
 ## C12S03Q10
 ![image](https://github.com/user-attachments/assets/fa38863b-434f-4f53-a0e6-36df323360ab)
 
