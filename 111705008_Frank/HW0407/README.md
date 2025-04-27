@@ -42,6 +42,17 @@ $\hat{y} = 29.6 + 0.8293 \times 157 = 158.95$
 we predict a person with an armspan of 157 to have a height of 158.95  
 ## C12S02Q10
 ![image](https://github.com/user-attachments/assets/48482a85-3d1e-42a8-99d4-e12bdd165d3d)
+
+**a.**\
+Income is the indipendent variable and BMI is the dependent vairable.
+**b.**\
+$\hat{y}=a+bx$\
+$S_{xy} = \sum xy - \frac{\sum x \sum y}{n}= 6090.65 - \frac{240.5 \times 162}{6} = -403$\
+$S_{xx} = \sum x^2 - \frac{(\sum x)^2}{n}= 12370.25 - \frac{240.5^2}{6} = 2730.21$\
+$b = \frac{S_{xy}}{S_{xx}} = \frac{-403}{2730.21} = -0.1475$\
+$a = \bar{y} - b\bar{x} = 32.9144$
+
+least-squares regression line: $\hat{y}=32.9144-0.1475x$
 ## C12S02Q11
 ![image](https://github.com/user-attachments/assets/62cca64b-0bc0-450d-9e74-3c7aa97dfcb4)
 
