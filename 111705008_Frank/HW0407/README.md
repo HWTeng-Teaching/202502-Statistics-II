@@ -11,6 +11,7 @@ $a = \bar{y} - b \bar{x} = 1.38257$
 
 ## C12S01Q22
 ![image](https://github.com/user-attachments/assets/10c640ba-23f4-4aab-834b-2b68c2cbea47)
+![image](https://github.com/user-attachments/assets/9655b472-6924-4e8f-9012-adf4d9069c8a)
 
 **a.**\
 <img width="500" alt="image" src=https://github.com/user-attachments/assets/bdb23298-a7c6-4e02-a8c7-e99c4b1edbaa/>
@@ -39,7 +40,6 @@ formula of the slope confirms the conclusion in part b that it should be roughly
 $\hat{y} = 29.6 + 0.8293 \times 157 = 158.95$  
 
 we predict a person with an armspan of 157 to have a height of 158.95  
-![image](https://github.com/user-attachments/assets/9655b472-6924-4e8f-9012-adf4d9069c8a)
 ## C12S02Q10
 ![image](https://github.com/user-attachments/assets/48482a85-3d1e-42a8-99d4-e12bdd165d3d)
 ## C12S02Q11
