@@ -99,7 +99,7 @@ $SSE =45007.2−43146.93 = 1860.27$
 **b.**\
 $\hat{y}=a+bx$\
 $S_{xy} = \sum xy - \frac{\sum x \sum y}{n}= 
-132.8 - \frac{120 \times 16.66}{16} = 7.85\
+132.8 - \frac{120 \times 16.66}{16} = 7.85$\
 $S_{xx} = \sum x^2 - \frac{(\sum x)^2}{n}= 1240 - \frac{120^2}{16} = 340$\
 $b = \frac{S_{xy}}{S_{xx}} = \frac{7.85}{340
 } = 0.0231$\
@@ -124,12 +124,28 @@ critical value: $t_{n-2, \alpha/2} = t_{14,0.025} = 2.145$
 
 $7.031 > 2.145$, therefore we reject $H_0$ and say there is a linear relationship between the number of miles of roadways and the year.
 
-**c.**\
+**c.**
 | Source | df | SS | MS | F |
 |:------|:------|:------|:------|:------|
 | Regression | 1 | 0.181243 | 0.181243 | 493.85 |
 | Error | 14 | 0.005132 | 0.000367 |  |
 | Total | 15 | 0.186375 |  |  |
+
+To test if x is useful in predicting y.
+
+$H_0: \quad b = 0, H_a: \quad b \neq 0$
+
+$\alpha = 0.05$
+
+$$H_0: \quad b = 0, H_a: \quad b \neq 0$
+
+$\alpha = 0.05$
+
+$F_{STAT} = \frac{MSR}{MSE} \sim F_{1,n-2}$\
+$F_{1,14} = \frac{MSR}{MSE} = \frac{0.181243}{0.000367} = 493.85$\
+critical value: $F_{1,14,0.05} = 4.6001$
+
+$493.85 > 4.6001$, therefore we reject $H_0$ and say there is a linear relationship between the number of miles of roadways and the year.$\
 ## C12S03Q10
 ![image](https://github.com/user-attachments/assets/fa38863b-434f-4f53-a0e6-36df323360ab)
 
