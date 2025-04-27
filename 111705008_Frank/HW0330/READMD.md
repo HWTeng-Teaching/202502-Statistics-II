@@ -46,6 +46,46 @@ $\bar{x_2}$ differes from otehr means, as its difference with $\bar{x_3}$ exceed
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/f175430a-b80d-477e-b58c-24dc45dae722" /><br>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/3bc7dd32-6bd2-4f70-85e9-62127b7bca6a" />
 
+**a.**\
+$H_0: \quad \mu_1 = \mu_2 = \mu_3, H_a: \quad \exists \mu_i \neq \mu_j, i \neq j$\
+$a = 0.05$\
+$X_{LS} = X_{1\cdot} = 6080 \quad X_{PS} = X_{2\cdot} = 6530 \quad X_{SS} = X_{3\cdot} = 5320$\
+$X_{\cdot\cdot} = 17930$\
+$N = 30$\  
+$k = 3$\
+
+$CM = \frac{X_{\cdot\cdot}^2}{N} = \frac{17930^2}{30} = 10716163.33$
+
+$TSS = \sum_{i=1}^{k} \sum_{j=1}^{n_i} x_{ij}^2 -CM = 11016900 - 10716163.33 = 300736.67$
+
+$SST = \sum_{i=1}^{k} \sum_{j=1}^{n_i} (\bar{x_{i\cdot}} - \bar{x_{\cdot\cdot}})^2 = \sum_{i=1}^{k} \frac{x_{i\cdot}^2}{n_i} -CM = 10790970 - 10716163.33 = 74806.67$
+
+$SSE = TSS - SST = 300736.67 - 74806.67 = 225930$
+
+ANOVA Table
+
+| Source | df | SS | MS | F |
+|:------|:------|:------|:------|:------|
+| Treatment | 2 | 74806.67 | 37403.335 | 4.47 |
+| Error | 27 | 225930 | 8367.778 |  |
+| Total | 29 | 300736.67 |  |  |
+
+Critical value: $F_{2,27,0.05} = 3.35$\
+$4.47 > 3.35$, therefore we reject $H_0$ sand say there is sufficient evidence to indicate a difference in the maean GRE scores for applicants admitted to the three programs
+
+**b.**
+$95% cI$: $\bar{x_{1\cdot}} - \bar{x_{2\cdot}} \pm t_{N-k, \alpha/2} \times \sqrt{MSE \times (\frac{1}{n_1}+\frac{1}{n_2})}
+= \bar{x_{1\cdot}} - \bar{x_{2\cdot}} \pm t_{27, 0.025} \times \sqrt{MSE \times (\frac{1}{10}+\frac{1}{10})}
+= 608 - 653 \pm 2.052 \times \sqrt{8367.78 \times (\frac{1}{10}+\frac{1}{10})}
+= (-128.9455, 38.9455)$
+
+**c.**\
+$\omega = q_{\alpha}(k, N-k) \times \sqrt{\frac{MSE}{n_t}}
+= q_{0.05}(3, 27) \times \sqrt{\frac{8367.78}{10}}
+= 3.506 \times \sqrt{\frac{8367.78}{10}}
+= 101.4185$
+
+$\bar{X_3.}$
 ## C11S04Q24,25
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/4c0faafd-d56f-4c5f-bd00-7b868b647304" /><br>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/bce76f90-d5f7-4515-9cdc-2ecb691bd650" />
