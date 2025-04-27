@@ -90,7 +90,36 @@ $\bar{X_1.} - \bar{X_3.} = 76, \bar{X_2.}- \bar{X_1.} = 45, \bar{X_2.}- \bar{X_3
 we can see $\bar{X_3}$ differs significantly from $\bar{X_2}$
 ## C11S04Q24,25
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/4c0faafd-d56f-4c5f-bd00-7b868b647304" /><br>
+
+**a.**\
+treatmet: stores\
+block: itmes
+
+**b.**\
+$H_0: \quad \mu_1 = \mu_2 = \mu_3 = \mu_4, H_a: \quad \exists \mu_i \neq \mu_j, i \neq j$\
+$a = 0.05$\
+since the p-value $ = 0.000 < 0.05$, we reject $H_0$ and say there is significant differences in prices from store to store. 
+
+**c.**\
+$p-value for items = 0.000 < 0.05$, we reject $H_0$ and say there is significant differences in prices from item to item.
+
+As p-value is smaller than significance level, blocking is effective.
+
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/bce76f90-d5f7-4515-9cdc-2ecb691bd650" />
+
+**a.**\
+$q_{0.05}(4, 21) = 3.942$
+
+**b.**\
+$\omega = q_{\alpha}(k, N-k) \times \sqrt{\frac{MSE}{n_t}}
+= q_{0.05}(4, 21) \times \sqrt{\frac{0.1658}{8}}
+= 5.19 \times \sqrt{\frac{0.1658}{8}}
+= 0.7472$
+
+**c.**
+![image](https://github.com/user-attachments/assets/ea0922f5-c367-421a-9f07-2dcecf826c18)
+
+By ranking athe population means adn calculating their differences, we can see $\bar{X_4}$ differs significantly from the other three means.
 
 ## C11S04Q26
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/2bc6fb39-f31c-44bc-bef1-d7df8337bba7" /><br>
