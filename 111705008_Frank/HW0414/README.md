@@ -23,6 +23,19 @@ As shown in the table, the best estimate of $\sigma^2$ is $58.05$.
 **c.**\
 In the normal probability plot, the residuals are showing normality. Valid is the normal distribution assumption.
 In the residuals versus fits plot, there are residueals that do not scatter randomly around y = 0. It violates the assumption of equal variances.
+## C12S04Q09
+
+<img width="200" alt="img" src="https://github.com/user-attachments/assets/cd4e0919-e252-4f7e-a6ce-f74c472677c3/">
+<img width="200" alt="img" src="https://github.com/user-attachments/assets/c2a024dc-ddc5-4df1-9513-a48201d52b23/">
+<img width="200" alt="img" src="https://github.com/user-attachments/assets/bdf1c2b8-b874-41fd-ab73-63e7a017d730/">
+
+**a.**\
+Only 2.7% of the variation in TV price is explained by screen size, indicating a weak realtionship.
+
+**b.**\
+In the normal probability plot, the residuals closely follow the straight line. In the residuals versus fitted value plot, there is non-constant spread of residuals which indicates violation of equal variance assumption.
+
+The variance assumptions appears violated.
 
 ## C12S05Q18
 <img width="600" alt="img" src=https://github.com/user-attachments/assets/ae6537c1-951e-48e6-a8c2-28da615d9dfb/>
