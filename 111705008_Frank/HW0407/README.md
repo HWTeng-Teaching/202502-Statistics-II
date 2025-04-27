@@ -62,10 +62,41 @@ $SSE = 72.2-59.4859 = 12.7141$
 
 ## C12S02Q11
 ![image](https://github.com/user-attachments/assets/62cca64b-0bc0-450d-9e74-3c7aa97dfcb4)
-
 ![image](https://github.com/user-attachments/assets/9e2125f1-1be3-494f-9537-3b69ac322a4c)
+
+**a.**\
+$\hat{y}=a+bx$\
+$S_{xy} = \sum xy - \frac{\sum x \sum y}{n}= 
+653830 - \frac{1490 \times 1978}{5} = 64386\
+$S_{xx} = \sum x^2 - \frac{(\sum x)^2}{n}= 540100 - \frac{1490^2}{5} = 96080$\
+$b = \frac{S_{xy}}{S_{xx}} = \frac{64386}{96080
+} = 0.67$\
+$a = \bar{y} - b\bar{x} = 195.9$
+
+least-squares regression line: $\hat{y}=195.9-0.67x$
+
+**b.**\
+![image](https://github.com/user-attachments/assets/aac17b16-1711-445d-bba8-d44f598824bf)
+
+The data scatters around the least-squared regression line, the fitted line seems to provide a good fit to the data points.
+
+**c.**\
+$TSS=\sum y^2-\frac{(\sum y)^2}{n}=827504-\frac{1978^2}{6}=45007.2$\
+$SSR=\frac{S_{xy}^2}{Syy}=\frac{(64386)^2}{96080}=43146.93$\
+$SSE =45007.2−43146.93 = 1860.27$
+
+| Source | df | SS | MS | F |
+|:------|:------|:------|:------|:------|
+| Regression | 1 | 43146.93 | 43146.93 | 69.5817 |
+| Error | 3 | 1860.27 | 620.09 |  |
+| Total | 4 | 45007.2 |  |  |
 ## C12S03Q09
 ![image](https://github.com/user-attachments/assets/9ba774fe-1785-4eb1-bcaa-1e62c47224a7)
+
+**a.**\
+![image](https://github.com/user-attachments/assets/4a99cc18-b0c7-4f31-95c6-a2b70bdfe441)
+
+A positive linear realtionship between Years past and Miles of Roadways.
 ## C12S03Q10
 ![image](https://github.com/user-attachments/assets/fa38863b-434f-4f53-a0e6-36df323360ab)
 
