@@ -22,14 +22,10 @@ There appears to be a positive linear relationship between armspan and height.
 The slope of the regression line should be roughly 1.  
 
 **c.**\
-$\hat{y} = a + bx$  
-
-$S_{xy} = \sum xy - \frac{\sum x \sum y}{n}= 221414 - \frac{1328 \times 1331}{8} = 468$
-
-$S_{xx} = \sum x^2 - \frac{(\sum x)^2}{n}= 221016 - \frac{1328^2}{8} = 568$
-
-$b = \frac{S_{xy}}{S_{xx}} = \frac{468}{568} = 0.8239$
-
+$\hat{y} = a + bx$\
+$S_{xy} = \sum xy - \frac{\sum x \sum y}{n}= 221414 - \frac{1328 \times 1331}{8} = 468$\
+$S_{xx} = \sum x^2 - \frac{(\sum x)^2}{n}= 221016 - \frac{1328^2}{8} = 568$\
+$b = \frac{S_{xy}}{S_{xx}} = \frac{468}{568} = 0.8239$\
 $a = \bar{y} - b\bar{x} = 29.6$
 
 least-squares regression line: $\hat{y} = 29.6 + 0.8239x$  
@@ -53,6 +49,17 @@ $b = \frac{S_{xy}}{S_{xx}} = \frac{-403}{2730.21} = -0.1475$\
 $a = \bar{y} - b\bar{x} = 32.9144$
 
 least-squares regression line: $\hat{y}=32.9144-0.1475x$
+**b.**\
+$TSS=\sum y^2-\frac{(\sum y)^2}{n}=4446.22-\frac{162^2}{6}=72.2$\
+$SSR=\frac{S_{xy}^2}{Syy}=\frac{(-403)^2}{2730.21}=59.4859$\
+$SSE = 72.2-59.4859 = 12.7141$
+
+| Source | df | SS | MS | F |
+|:------|:------|:------|:------|:------|
+| Regression | 1 | 59.4859 | 59.4859 | 18.7151 |
+| Error | 4 | 12.7141 | 3.1785 |  |
+| Total | 5 | 72.2 |  |  |
+
 ## C12S02Q11
 ![image](https://github.com/user-attachments/assets/62cca64b-0bc0-450d-9e74-3c7aa97dfcb4)
 
