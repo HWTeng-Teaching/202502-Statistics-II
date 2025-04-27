@@ -18,35 +18,24 @@ $a = \bar{y} - b \bar{x} = 1.38257$
 There appears to be a positive linear relationship between armspan and height.
 
 **b.**\
-
 The slope of the regression line should be roughly 1.  
 
 **c.**\
-
 $\hat{y} = a + bx$  
 
-$
-S_{xy} = \sum xy - \frac{\sum x \sum y}{n}= 221414 - \frac{1328 \times 1331}{8} = 468
-$
+$S_{xy} = \sum xy - \frac{\sum x \sum y}{n}= 221414 - \frac{1328 \times 1331}{8} = 468$
 
-$
-S_{xx} = \sum x^2 - \frac{(\sum x)^2}{n}= 221016 - \frac{1328^2}{8} = 568
-$
+$S_{xx} = \sum x^2 - \frac{(\sum x)^2}{n}= 221016 - \frac{1328^2}{8} = 568$
 
-$
-b = \frac{S_{xy}}{S_{xx}} = \frac{468}{568} = 0.8239
-$
+$b = \frac{S_{xy}}{S_{xx}} = \frac{468}{568} = 0.8239$
 
-$
-a = \bar{y} - b\bar{x} = 29.6
-$
+$a = \bar{y} - b\bar{x} = 29.6$
 
 least-squares regression line: $\hat{y} = 29.6 + 0.8239x$  
 
 formula of the slope confirms the conclusion in part b that it should be roughly 1.
 
 **d.**\
-
 $\hat{y} = 29.6 + 0.8293 \times 157 = 158.95$  
 
 we predict a person with an armspan of 157 to have a height of 158.95  
