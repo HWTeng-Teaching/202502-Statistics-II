@@ -51,8 +51,8 @@ $H_0: \quad \mu_1 = \mu_2 = \mu_3, H_a: \quad \exists \mu_i \neq \mu_j, i \neq j
 $a = 0.05$\
 $X_{LS} = X_{1\cdot} = 6080 \quad X_{PS} = X_{2\cdot} = 6530 \quad X_{SS} = X_{3\cdot} = 5320$\
 $X_{\cdot\cdot} = 17930$\
-$N = 30$\  
-$k = 3$\
+$N = 30$\
+$k = 3$
 
 $CM = \frac{X_{\cdot\cdot}^2}{N} = \frac{17930^2}{30} = 10716163.33$
 
@@ -73,8 +73,8 @@ ANOVA Table
 Critical value: $F_{2,27,0.05} = 3.35$\
 $4.47 > 3.35$, therefore we reject $H_0$ sand say there is sufficient evidence to indicate a difference in the maean GRE scores for applicants admitted to the three programs
 
-**b.**
-$95% cI$: $\bar{x_{1\cdot}} - \bar{x_{2\cdot}} \pm t_{N-k, \alpha/2} \times \sqrt{MSE \times (\frac{1}{n_1}+\frac{1}{n_2})}
+**b.**\
+95% CI: $\bar{x_{1\cdot}} - \bar{x_{2\cdot}} \pm t_{N-k, \alpha/2} \times \sqrt{MSE \times (\frac{1}{n_1}+\frac{1}{n_2})}
 = \bar{x_{1\cdot}} - \bar{x_{2\cdot}} \pm t_{27, 0.025} \times \sqrt{MSE \times (\frac{1}{10}+\frac{1}{10})}
 = 608 - 653 \pm 2.052 \times \sqrt{8367.78 \times (\frac{1}{10}+\frac{1}{10})}
 = (-128.9455, 38.9455)$
@@ -85,7 +85,9 @@ $\omega = q_{\alpha}(k, N-k) \times \sqrt{\frac{MSE}{n_t}}
 = 3.506 \times \sqrt{\frac{8367.78}{10}}
 = 101.4185$
 
-$\bar{X_3.}$
+$\bar{X_1.} - \bar{X_3.} = 76, \bar{X_2.}- \bar{X_1.} = 45, \bar{X_2.}- \bar{X_3.} = 121$
+
+we can see $\bar{X_3}$ differs significantly from $\bar{X_2}$
 ## C11S04Q24,25
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/4c0faafd-d56f-4c5f-bd00-7b868b647304" /><br>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/bce76f90-d5f7-4515-9cdc-2ecb691bd650" />
