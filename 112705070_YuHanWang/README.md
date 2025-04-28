@@ -15,7 +15,7 @@
 
 
 ## Smiles 
-<img width="324" alt="image" src="https://i.imgur.com/gfpUMXv.jpeg" />
+<img width="324" alt="image" src="https://github.com/HWTeng-Teaching/202502-Statistics-II/blob/main/112705070_YuHanWang/2164077239.0.jpg">
 
 
 
