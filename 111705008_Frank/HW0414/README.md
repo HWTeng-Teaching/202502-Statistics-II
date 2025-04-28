@@ -92,6 +92,45 @@ $p-value = P(F>0.4745) = 0.5030$, thus we don't reject $H_0$ as in the previous 
 = 8.8 \pm 2.16 \times \sqrt{3.1467 \times \frac{1}{15}}
 = (7.8107, 9.7893)$
 
+## C12S05Q15
+
+<img width="400" alt="image" src=https://github.com/user-attachments/assets/61ff0854-08b9-4fbe-aff0-92634afb93ac/>
+
+**a.**\
+$\hat{y} = a + bx$  
+
+$S_{xy} = \sum xy - \frac{\sum x \sum y}{n}= -14 - \frac{0 \times 10}{5} = -14$\
+$S_{xx} = \sum x^2 - \frac{(\sum x)^2}{n}= 16 - \frac{0^2}{5} = 16$
+
+$b = \frac{S_{xy}}{S_{xx}} = \frac{-147}{16} = -0.875$\
+$a = \bar{y} - b\bar{x} = 2$
+
+least-squares regression line: $\hat{y} = 2 - 0.875x$  
+
+$SSE = TSS - SSR = S_{yy} - \frac{S_{xy}^2}{Syy} = 12.5 - \frac{(-14)^2}{16} = 0.25$\
+$MSE = \frac{SSE}{n-2} = \frac{0.25}{3} = 0.0833$
+
+$\hat{y} = 2 - 0.875 \times (-1) = 2.875$  
+
+99% CI: $\hat{y} \pm t_{n-2, \alpha/2} \times \sqrt{MSE \times (\frac{1}{n} + \frac{(x_0-\bar{x})^2}{S_{xx}})}
+= 2.875 \pm t_{3, 0.005} \times \sqrt{0.0833 \times (\frac{1}{5} + \frac{(-1-0)^2}{16})}
+= 2.875 \pm 5.841 \times \sqrt{0.0833 \times (\frac{1}{5} + \frac{1}{16})}
+= (2.0113, 3.7387)$
+
+**b.**\
+$\hat{y} = 2 - 0.875 \times 1 = 1.125$  
+
+95% PI: $\hat{y} \pm t_{n-2, \alpha/2} \times \sqrt{MSE \times (1 + \frac{1}{n} + \frac{(x_0-\bar{x})^2}{S_{xx}})}
+= 2.875 \pm t_{3, 0.025} \times \sqrt{0.0833 \times (1 + \frac{1}{5} + \frac{(-1-0)^2}{16})}
+= 2.875 \pm 5.841 \times \sqrt{0.0833 \times (\frac{1}{5} + \frac{1}{16})}
+= (2.0113, 3.7387)$
+
+**c.**\
+The width of PI: $(\hat{y} + t_{n-2, \alpha/2} \times \sqrt{MSE \times (1 + \frac{1}{n} + \frac{(x_0-\bar{x})^2}{S_{xx}})}) 
+-(\hat{y} - t_{n-2, \alpha/2} \times \sqrt{MSE \times (1 + \frac{1}{n} + \frac{(x_0-\bar{x})^2}{S_{xx}})})= 2 \times t_{n-2, \alpha/2} \times \sqrt{MSE \times (1 + \frac{1}{n} + \frac{(x_0-\bar{x})^2}{S_{xx}})}
+= 2 \times t_{n-2, \alpha/2} \times \sqrt{MSE \times (1 + \frac{1}{5} + \frac{x_0^2}{16})}$
+
+Thus, for the width of PI to be minimun, $x$ should be 0.
 ## C12S05Q18
 <img width="600" alt="img" src=https://github.com/user-attachments/assets/ae6537c1-951e-48e6-a8c2-28da615d9dfb/>
 
