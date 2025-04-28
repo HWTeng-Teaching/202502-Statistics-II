@@ -207,3 +207,6 @@ $0.9249<1.895$, therefore we do not reject $H_0$ and say there is no significant
 
 ## C12S06Q14
 <img width="400" alt="image" src=https://github.com/user-attachments/assets/d4b31c24-235e-4483-a19e-f7887ccc6676>
+
+## C12S06Q15
+<img width="400" alt="image" src=https://github.com/user-attachments/assets/d2b4b2d2-ce86-4e23-a338-5b57f55952d5/>
