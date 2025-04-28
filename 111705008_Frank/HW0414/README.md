@@ -52,7 +52,45 @@ $a = \bar{y} - b \bar{x} = 4.3$
 Least-squares regression line: $\hat{y}=4.3+1.5x$
 
 **b.**\
+![image](https://github.com/user-attachments/assets/3cf35bdb-d005-4d8b-9df9-d47e334d3aa1)
 
+**c.**\
+$TSS = S_{yy} = \sum y^2 - \frac{(\sum y)^2}{n} = 1204 - \frac{132^2}{15} = 42.4$\
+$SSR = \frac{S_{xy}^2}{Syy} = \frac{42.4^2}{1204} = 1.4932$\
+$SSE = 42.4 - 1.4932 = 40.9068$\
+$s^2 = MSE = \frac{SSE}{n-2} = \frac{40.9068}{13} = 3.1467$
+
+**d.**\
+ANOVA table:
+
+| Source | df | SS | MS | F |
+|:------|:------|:------|:------|:------|
+| Regression | 1 | 1.4932 | 1.4932 | 0.4745 |
+| Error | 13 | 40.9068 | 3.1467 |  |
+| Total | 14 | 42.4 |  |  |
+
+$H_0: \quad b = 0, H_a: \quad b \neq 0$\
+$\alpha = 0.05$
+
+$F_{STAT} = \frac{MSR}{MSE} \sim F_{1,n-2}$\
+$F_{1,13} = \frac{MSR}{MSE} = \frac{1.4932}{3.1467} = 0.4745$
+
+critical value: $F_{1,13,0.05} = 4.6672$
+
+$4.6672 > 0.4745$, therefore we don't reject $H_0$ and say there is no sufficient evidence to indicate that the length of decision time is linearly related to the number of alternative package designs
+
+**e.**\
+$p-value = P(F>0.4745) = 0.5030$, thus we don't reject $H_0$ as in the previous sector.
+
+**f.**\
+![image](https://github.com/user-attachments/assets/eeed83cf-64ef-4f5d-ab07-e175fb520e8c)
+![image](https://github.com/user-attachments/assets/180ede77-41c4-4804-a39d-ccb2b12de837)
+
+**g.**\
+95%CI: $\hat{y} \pm t_{n-2, \alpha/2} \times \sqrt{MSE \times (\frac{1}{n} + \frac{(x_0-\bar{x})^2}{S_{xx}})}
+= 8.8 \pm t_{13, 0.025} \times \sqrt{3.1467 \times (\frac{1}{15} + \frac{(3-3)^2}{10})}
+= 8.8 \pm 2.16 \times \sqrt{3.1467 \times \frac{1}{15}}
+= (7.8107, 9.7893)$
 
 ## C12S05Q18
 <img width="600" alt="img" src=https://github.com/user-attachments/assets/ae6537c1-951e-48e6-a8c2-28da615d9dfb/>
