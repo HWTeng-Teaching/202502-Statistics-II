@@ -8,17 +8,15 @@
 
 ## Map
 
-![images](![image](https://github.com/user-attachments/assets/e8f2e937-55e0-4bd0-b530-cdd8cb8b7947)
+![images](https://github.com/HWTeng-Teaching/202502-Statistics-II/blob/main/112705014_%E7%94%B0%E6%B7%AE%E7%AD%91/%E7%85%A7%E7%89%87MAP.jpg)
 )
 
 ## Food
 
-![images (1)](![image](https://github.com/user-attachments/assets/902f7676-5036-4a51-888d-7f53f027dacb)
+![images (1)](https://github.com/HWTeng-Teaching/202502-Statistics-II/blob/main/112705014_%E7%94%B0%E6%B7%AE%E7%AD%91/%E7%85%A7%E7%89%87FOOD.jpg
 )
 
 
 ## Smiles 
 
-![images (2)](![image](https://github.com/user-attachments/assets/93a0b0d3-4177-4d28-a422-6d851b1f928f)
-)
-
+![images (2)]([![image](https://github.com/HWTeng-Teaching/202502-Statistics-II/blob/main/112705014_%E7%94%B0%E6%B7%AE%E7%AD%91/%E7%85%A7%E7%89%87SMILE.jpg)
