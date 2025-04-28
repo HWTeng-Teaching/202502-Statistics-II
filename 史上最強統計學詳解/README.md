@@ -1,6 +1,6 @@
 # HW solution
 
-## Exam 1
+## PART 1/3
 
 ### HW0224
 
@@ -45,7 +45,7 @@ C10S07Qxx refers to questions in the review section (after page 429).
 | 吳心茹 | HW0310Q6 | When using rule of thumb to check if two variances<br> are the same, approximate the significance level with $n_1=4$ and $n_2=3$. |
 
 
-## Exam 2
+## PART 2/3
 
 ### HW0331
 
@@ -88,5 +88,52 @@ C10S07Qxx refers to questions in the review section (after page 429).
 | 高　正  | HW0414Q8  | C12S06Q14           |
 | 黃泓文  | HW0414Q9  | C12S06Q15           |
 
+## PART 3/3
+
+### HW0428
+
+| Name   | HWCODE   | Assignment |
+|--------|----------|------------|
+| 陳品臻 | HW0428Q1 | C14S02Q18  |
+| 高崧淳 | HW0428Q2 | C14S02Q22  |
+
+
+### HW0505
+
+| Name   | HWCODE   | Assignment |
+|--------|----------|------------|
+| 洪　鈺 | HW0505Q1 | C14S03Q18  |
+| 吳育君 | HW0505Q2 | C14S03Q23  |
+| 田淮筑 | HW0505Q3 | C14S04Q10  |
+| 徐嘉謙 | HW0505Q4 | C14S04Q12  |
+
+### HW0512
+
+| Name   | HWCODE   | Assignment |
+|--------|----------|------------|
+| 孔勝立 | HW0512Q1 | C15S01Q12  |
+| 張紘誌 | HW0512Q2 | C15S01Q13  |
+| 喻潔美 | HW0512Q3 | C15S02Q04  |
+| 陳芃妍 | HW0512Q4 | C15S02Q11  |
+| 陳珏睿 | HW0512Q5 | C15S02Q13  |
+| 陳筠緹 | HW0512Q6 | C15S04Q09  |
+
+### HW0519
+
+| Name   | HWCODE   | Assignment |
+|--------|----------|------------|
+| 周明瑄 | HW0519Q1 | C15S04Q11  |
+| 藍允澤 | HW0519Q2 | C15S04Q15  |
+| 王冠築 | HW0519Q3 | C15S05Q6   |
+| 吳心茹 | HW0519Q4 | C15S05Q8   |
+
+### HW0526
+
+| Name   | HWCODE   | Assignment |
+|--------|----------|------------|
+| 許秝甄 | HW0526Q1 | C15S06Q10  |
+| 吳孟庭 | HW0526Q2 | C15S06Q11  |
+| 廖靖綾 | HW0526Q3 | C15S07Q11  |
+| 王語涵 | HW0526Q4 | C15S07Q12  |
 
 
