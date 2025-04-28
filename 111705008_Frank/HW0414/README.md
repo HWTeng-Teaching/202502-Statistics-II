@@ -183,3 +183,27 @@ $SE_{\hat{y}} = s \cdot \sqrt{ \frac{1}{n} + \frac{(x_0 - \bar{x})^2}{\sum (x_i 
 $s=\sqrt{\frac{\sum (y_i - \hat{y_i})^2}{n-2}} = 39.04190$
 
 $CI=\hat{y}(x_0)\pm t^* \cdot SE_\hat{y} = 135.01531\pm 1.812 \cdot 12.6264 = (112.130, 157.900)$
+
+## C12S06Q13
+<img width="400" alt="image" src=https://github.com/user-attachments/assets/139d6076-6903-42d2-9c51-50a40208138f>
+
+Average drill hole depth as independent variable x, and average temperature as dependent variable y  
+
+$S_{xy} = \sum xy - \frac{\sum x \sum y}{n}= 1,901,500 - \frac{8050 \times 2100}{9} = 23166.67$\
+$S_{xx} = \sum x^2 - \frac{(\sum x)^2}{n}= 602222.22$\
+$S_{yy} = \sum y^2 - \frac{(\sum y)^2}{n}= 8200$
+
+$r = \frac{S_{xy}}{\sqrt{S_{xx}S_{yy}}} = \frac{23166.67}{\sqrt{60222.22 \times 8200}} =0.3297$
+
+$H_0: \quad \rho = 0, H_a: \quad \rho > 0$\
+$\alpha = 0.05$
+
+$t_{STAT} = r \times \sqrt{\frac{n-2}{1-r^2}} \sim t_{n-2}$\
+$t^* = 0.3297 \times \sqrt{\frac{7}{1-0.3297^2}} = 0.9240$
+
+critical value: $t_{7,0.05} = 1.895$
+
+$0.9249<1.895$, therefore we do not reject $H_0$ and say there is no significant positive correlation between average maximum drill hole depth and average maximum temperature.
+
+## C12S06Q14
+<img width="400" alt="image" src=https://github.com/user-attachments/assets/d4b31c24-235e-4483-a19e-f7887ccc6676>
