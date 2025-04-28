@@ -208,5 +208,31 @@ $0.9249<1.895$, therefore we do not reject $H_0$ and say there is no significant
 ## C12S06Q14
 <img width="400" alt="image" src=https://github.com/user-attachments/assets/d4b31c24-235e-4483-a19e-f7887ccc6676>
 
+**a.**\
+We should use linear regression to model a predictive relationship, because we know fat's direction of the relationship with calories.
+
+**b.**\
+$\ r= \frac{S_{xy}}{\sqrt{S_{xx}S_{yy}}} = \frac{56140 - \frac{155 \times 2490}{7}}{\sqrt{3541 - \frac{155^2}{7} \times 896700 - \frac{2490^2}{7}}} = 0.91896 \$
+
+$\ t = r \times \sqrt{\frac{n-2}{1-r^2}}  = 0.91896 \times \sqrt{\frac{5}{1-0.91896}} = 5.2122\$
+
+critical value: $\ t_{5,0.025} = 2.571 \$
+
+5.2122 >2.571, therefore we reject $H_0$ and say there is sufficient evidence to indicate that there is correlation between total fat and calories.
+
 ## C12S06Q15
 <img width="400" alt="image" src=https://github.com/user-attachments/assets/d2b4b2d2-ce86-4e23-a338-5b57f55952d5/>
+
+**a.**\
+$\ r= \frac{S_{xy}}{\sqrt{S_{xx}S_{yy}}} = \frac{88140.6 - \frac{1180.3 \times 896}{12}}{\sqrt{116103.03 - \frac{1180.3^2}{12} \times 67312 - \frac{896^2}{12}}} = 0.1741 \$
+
+**b.**\
+$H_0: \quad \rho = 0, H_a: \quad \rho \neq 0$\
+$\alpha = 0.05$  
+
+$t_{STAT} = r \times \sqrt{\frac{n-2}{1-r^2}} \sim t_{n-2}$\
+$t^* = 0.1741 \times \sqrt{\frac{10}{1-0.1741^2}} = 0.5591$
+
+critical value: $t_{10,0.025} = 2.228$
+
+$2.228 > 0.5591$, therefore non-reject $\quad H_0$ and say there is no sufficient evidence to indicate that there is a correlation between these body temperture and heart rate.
