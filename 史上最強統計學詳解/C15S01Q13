@@ -1,0 +1,20 @@
+# C15S01Q13
+By 張紘誌, Hung-Chih Chang  
+
+<img width="409" src="https://github.com/user-attachments/assets/29ac3667-a12f-43f1-a0dd-a6bb051be573"/>  
+
+## solution
+$H_0: \text{The distributions of eye-movement rates for deaf children and hearing children are same.}$  
+$H_a: \text{The distributions of eye-movement rates for deaf children and hearing children are different.}$  
+
+$n1=9, \quad n2=9$  
+$T_1(hearing children) = 45, \quad T_2(deaf children) = 126$    
+$T^* = n1+(n1+n2+1) - T_1 = 9 x 19 - 45 = 126$
+
+The statistic is:    
+$min(T^*, T1) = min(126, 45) = 45$  
+
+The critical value of T is for a two-tailed test with α/2 = .025 is T = 62  
+
+$T_1 = 45 < 62, Reject H_0,$   
+There's sufficient evidence to indicate the distributions of eye-movement rates for hearing children lies to the left of that for deaf children.
