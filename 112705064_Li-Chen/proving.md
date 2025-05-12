@@ -1,3 +1,5 @@
+written by 許秝甄  
+
 Let $n_1$ and $n_2$ be the sample size of the two groups.  
 $T_1$ represents the sum of the ranks for the first sample when all observations are ranked from smallest to largest.  
 $T_1^*$ represents the sum of the ranks for the first sample when all observations are ranked from largest to smallest.  
