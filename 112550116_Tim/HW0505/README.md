@@ -1,1 +1,2 @@
-
+![image](https://github.com/HWTeng-Teaching/202502-Statistics-II/blob/main/112550116_Tim/HW0505/IMG_1585.jpeg)
+![image](https://github.com/HWTeng-Teaching/202502-Statistics-II/blob/main/112550116_Tim/HW0505/IMG_1586.jpeg)
